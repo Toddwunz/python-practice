@@ -1,0 +1,1767 @@
+[I 01:12:08.097 NotebookApp] Serving notebooks from local directory: /home/todd
+[I 01:12:08.097 NotebookApp] 0 active kernels
+[I 01:12:08.097 NotebookApp] The Jupyter Notebook is running at:
+[I 01:12:08.097 NotebookApp] http://ip-172-31-0-228:8888/?token=298f723aebb4e557dcc1c0f5af385ab57252576d6791f0a1
+[I 01:12:08.097 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 01:12:08.097 NotebookApp] No web browser found: could not locate runnable browser.
+[C 01:12:08.098 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://ip-172-31-0-228:8888/?token=298f723aebb4e557dcc1c0f5af385ab57252576d6791f0a1&token=298f723aebb4e557dcc1c0f5af385ab57252576d6791f0a1
+[I 01:12:47.747 NotebookApp] 302 GET / (222.153.126.233) 0.57ms
+[I 01:12:57.754 NotebookApp] Kernel started: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 01:12:58.275 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 01:13:17.207 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:75cef79d53b64fa0ba56f5d057f8caac
+[I 01:13:18.386 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 01:15:18.474 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 01:23:18.492 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 01:29:55.837 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:df3b02b26d5642e7bc29923494eb0309
+[W 02:42:22.018 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 9.12ms referer=None
+[W 04:34:18.782 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.39ms referer=None
+[W 06:26:50.946 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 07:24:29.673 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 07:27:50.032 NotebookApp] 302 GET / (54.153.13.145) 0.48ms
+[I 10:19:31.698 NotebookApp] 302 GET / (47.72.184.154) 0.47ms
+[I 10:20:31.492 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[W 11:08:20.820 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[I 11:47:40.425 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:161320bb13dd4969933bf630430fbb01
+[W 13:02:48.501 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 14:16:59.078 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.40ms referer=None
+[I 14:36:00.948 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[W 14:37:30.950 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 14:37:35.953 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 15:51:03.955 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 17:41:54.946 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 18:08:37.045 NotebookApp] 302 GET / (139.162.83.10) 0.52ms
+[W 20:04:27.605 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 21:15:04.338 NotebookApp] 302 GET / (114.35.246.181) 0.55ms
+[I 21:19:50.169 NotebookApp] 302 GET / (168.1.128.62) 0.50ms
+[I 21:32:56.092 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 21:32:56.093 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 23:44:51.586 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[W 23:51:34.228 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 02:09:26.096 NotebookApp] WebSocket ping timeout after 119967 ms.
+[I 02:09:31.097 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 02:09:42.432 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 02:09:42.432 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 03:40:34.968 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 05:05:52.176 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 05:33:42.436 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 05:33:47.439 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 06:39:19.438 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 06:39:19.439 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 06:44:51.445 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 06:44:56.448 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 06:44:56.448 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 06:44:56.449 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 06:48:28.460 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 06:48:33.463 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 06:48:33.464 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 06:48:33.465 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 06:54:23.187 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 06:54:28.189 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 06:54:28.190 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 06:54:28.190 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 06:56:15.498 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 06:56:20.501 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 06:56:20.501 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 06:56:20.502 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 06:59:50.504 NotebookApp] WebSocket ping timeout after 119947 ms.
+[I 06:59:55.506 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:01:26.566 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 07:01:26.567 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 07:02:56.570 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 07:03:01.572 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:06:18.458 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 07:06:18.459 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 07:08:48.463 NotebookApp] WebSocket ping timeout after 119951 ms.
+[I 07:08:53.465 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:09:40.447 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 07:09:40.448 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 07:11:10.451 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 07:11:15.455 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:12:42.528 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 07:12:42.529 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 07:18:42.532 NotebookApp] WebSocket ping timeout after 119951 ms.
+[I 07:18:47.536 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:18:59.458 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 07:18:59.459 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 07:53:31.462 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:53:36.466 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:53:36.467 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 07:53:36.468 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:53:49.251 NotebookApp] 302 GET / (2.50.159.203) 0.50ms
+[W 07:57:43.466 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:57:48.470 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:57:48.471 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 07:57:48.472 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:58:48.528 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 07:59:50.525 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 07:59:50.526 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 08:01:32.311 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 08:03:20.528 NotebookApp] WebSocket ping timeout after 115259 ms.
+[I 08:03:25.530 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 08:05:56.471 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 08:05:56.472 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 08:07:31.614 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 08:15:34.080 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 08:15:34.081 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 08:18:05.486 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 08:18:10.488 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 08:18:10.489 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 08:18:10.490 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 08:48:01.499 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 08:48:06.503 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 08:48:06.504 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 08:48:06.505 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 08:48:34.663 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[E 08:48:36.507 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(0bec3ef4-fa7b-436a-8287-f34b4aa8534d)>
+    Traceback (most recent call last):
+      File "/root/.pyenv/versions/3.5.5/envs/python3.5/lib/python3.5/site-packages/tornado/ioloop.py", line 1208, in _run
+        return self.callback()
+      File "/root/.pyenv/versions/3.5.5/envs/python3.5/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/.pyenv/versions/3.5.5/envs/python3.5/lib/python3.5/site-packages/tornado/websocket.py", line 318, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 08:48:39.667 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 08:48:39.668 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 08:48:39.669 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 08:50:49.003 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 10:29:10.073 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 11:29:32.391 NotebookApp] 302 GET / (49.224.200.227) 0.49ms
+[W 12:33:58.796 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 12:34:03.797 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 12:34:03.798 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 12:34:03.799 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 12:51:42.345 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.59ms referer=None
+[W 13:04:03.799 NotebookApp] WebSocket ping timeout after 102841 ms.
+[I 13:04:08.803 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 13:06:07.608 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 13:06:07.608 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 13:10:07.610 NotebookApp] WebSocket ping timeout after 113118 ms.
+[I 13:10:12.615 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 13:12:01.593 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 13:12:01.593 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 13:26:21.295 NotebookApp] 302 GET / (196.52.43.118) 0.59ms
+[W 13:42:33.606 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 13:42:38.609 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[I 13:42:38.610 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 13:42:38.611 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 13:56:38.613 NotebookApp] WebSocket ping timeout after 119949 ms.
+[I 13:56:43.616 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:9bcd371d8f9f4b278376ecec66a7969b
+[W 16:00:55.704 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 16:42:47.423 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.41ms referer=None
+[I 17:21:47.666 NotebookApp] 302 GET / (188.213.199.156) 0.47ms
+[W 20:20:57.598 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[W 20:58:56.969 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.09ms referer=None
+[I 21:51:40.259 NotebookApp] 302 GET / (125.237.148.13) 0.51ms
+[W 23:18:47.562 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 02:06:05.697 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 03:21:57.237 NotebookApp] 302 GET / (191.100.10.246) 0.55ms
+[W 04:18:20.340 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[W 06:42:43.633 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 08:02:32.286 NotebookApp] 302 GET / (49.224.200.227) 0.54ms
+[W 08:09:53.258 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 09:45:16.365 NotebookApp] 302 GET / (49.224.200.227) 0.45ms
+[W 10:25:38.000 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 11:00:30.531 NotebookApp] 302 GET / (107.170.232.18) 0.48ms
+[W 11:40:49.831 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 11:55:30.120 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 13:21:20.549 NotebookApp] 302 GET / (139.162.83.10) 0.53ms
+[I 13:35:23.311 NotebookApp] 302 GET / (175.45.50.33) 0.49ms
+[W 13:54:22.463 NotebookApp] 404 GET /webfig/roteros.info (179.223.115.148) 1.44ms referer=None
+[W 14:21:00.124 NotebookApp] WebSocket ping timeout after 119917 ms.
+[I 14:21:05.126 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:02c59397111f491c8f2c6e4d4575a110
+[W 14:55:09.393 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 15:52:41.213 NotebookApp] 302 GET / (190.94.139.174) 0.46ms
+[W 17:09:52.623 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 19:49:32.071 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.02ms referer=None
+[I 19:53:25.489 NotebookApp] 302 GET / (141.212.122.48) 0.47ms
+[I 19:53:25.775 NotebookApp] 302 GET /tree? (141.212.122.48) 0.68ms
+[I 20:22:39.722 NotebookApp] 302 GET / (190.94.135.223) 0.50ms
+[W 20:50:59.260 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 23:06:27.109 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 01:40:27.816 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 02:55:35.994 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 02:55:35.994 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:02c59397111f491c8f2c6e4d4575a110
+[I 03:00:24.744 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:02c59397111f491c8f2c6e4d4575a110
+[W 03:00:35.693 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 03:00:40.904 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 03:00:40.905 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:02c59397111f491c8f2c6e4d4575a110
+[I 03:06:37.863 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:02c59397111f491c8f2c6e4d4575a110
+[W 05:56:48.583 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 06:28:56.273 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.53ms referer=None
+[I 06:43:16.244 NotebookApp] 302 GET / (47.72.191.33) 0.51ms
+[W 08:40:34.919 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[W 10:39:53.574 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 13:46:22.223 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[W 16:10:09.552 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 17:13:10.392 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.92ms referer=None
+[W 19:30:16.461 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 21:52:43.907 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 23:45:41.769 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[I 01:51:47.929 NotebookApp] 302 GET / (190.94.138.124) 0.52ms
+[W 02:12:31.699 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.53ms referer=None
+[W 04:48:26.096 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 06:38:18.101 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 07:37:50.077 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 10:55:31.128 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 12:52:55.836 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 13:53:21.444 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 15:37:56.341 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[I 17:26:51.240 NotebookApp] 302 GET / (158.85.81.118) 0.48ms
+[W 17:37:21.502 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 20:11:23.144 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 22:57:30.919 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 00:37:30.293 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.65ms referer=None
+[W 02:44:38.566 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.41ms referer=None
+[W 04:27:56.166 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.97ms referer=None
+[I 04:34:18.139 NotebookApp] 302 GET / (196.52.43.97) 0.57ms
+[W 07:45:19.907 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 08:05:40.285 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 10:30:58.927 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 10:31:00.022 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:bec549ac3f014d698eb9510d3e16b6a6
+[W 11:22:10.670 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 13:06:14.700 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 16:16:13.432 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 16:27:15.371 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 18:40:56.590 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.81ms referer=None
+[W 21:19:07.140 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 23:13:34.966 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[W 03:48:15.387 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 11:02:41.752 NotebookApp] 302 GET / (192.241.196.208) 0.48ms
+[W 11:18:17.258 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[W 13:05:08.278 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 18:21:31.756 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.53ms referer=None
+[I 19:43:46.784 NotebookApp] 302 GET / (196.52.43.96) 0.58ms
+[I 22:25:15.574 NotebookApp] 302 GET / (139.162.83.10) 0.52ms
+[W 23:55:14.655 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[W 03:47:36.277 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 07:06:35.823 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[I 07:32:53.677 NotebookApp] 302 GET / (118.70.184.97) 0.54ms
+[I 11:11:45.375 NotebookApp] 302 GET / (89.45.55.102) 0.46ms
+[W 12:02:13.908 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.61ms referer=None
+[I 13:57:09.749 NotebookApp] 302 GET / (47.72.201.198) 0.49ms
+[I 13:57:28.350 NotebookApp] Uploading file to /eshop-eer.png
+[I 14:21:07.184 NotebookApp] 302 GET / (190.92.53.162) 0.49ms
+[W 15:12:42.677 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.58ms referer=None
+[W 16:52:52.301 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 23:36:15.383 NotebookApp] 302 GET / (196.52.43.93) 0.45ms
+[W 23:56:30.715 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.93ms referer=None
+[I 03:03:59.701 NotebookApp] 302 GET / (203.205.219.190) 0.47ms
+[I 03:05:43.639 NotebookApp] 302 GET / (101.227.143.141) 0.49ms
+[I 03:06:35.629 NotebookApp] 302 GET / (115.188.153.0) 0.47ms
+[I 03:06:35.817 NotebookApp] 302 GET /tree? (115.188.153.0) 0.76ms
+[I 03:09:00.352 NotebookApp] 302 GET / (180.163.28.123) 0.48ms
+[I 03:14:09.802 NotebookApp] 302 GET / (210.55.232.18) 0.50ms
+[I 03:14:13.615 NotebookApp] 302 GET /tree? (210.55.232.18) 0.65ms
+[W 03:14:36.937 NotebookApp] 401 POST /login?next=%2Ftree%3F (210.55.232.18) 2.53ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[W 03:14:52.059 NotebookApp] 401 POST /login?next=%2Ftree%3F (210.55.232.18) 1.51ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[W 03:15:25.116 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 03:19:06.596 NotebookApp] 404 GET /index.php (210.55.232.18) 1.45ms referer=None
+[I 03:19:12.971 NotebookApp] 302 GET / (210.55.232.18) 0.51ms
+[I 03:19:15.534 NotebookApp] 302 GET /tree? (210.55.232.18) 0.69ms
+[W 03:19:35.028 NotebookApp] 401 POST /login?next=%2Ftree%3F (210.55.232.18) 1.66ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[W 03:19:52.591 NotebookApp] 401 POST /login?next=%2Ftree%3F (210.55.232.18) 1.64ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[I 03:29:23.271 NotebookApp] 302 GET / (125.237.148.13) 0.45ms
+[I 03:32:59.108 NotebookApp] 302 GET / (49.224.251.200) 0.49ms
+[I 03:32:59.179 NotebookApp] 302 GET /tree? (49.224.251.200) 0.71ms
+[I 03:36:33.647 NotebookApp] 302 POST /login?next=%2Ftree%3F (49.224.251.200) 1.14ms
+[I 03:36:46.650 NotebookApp] 302 GET /login?next=%2Ftree%3F (49.224.251.200) 0.80ms
+[I 03:45:31.132 NotebookApp] 302 GET /?nsukey=wy2Bz5dBApzBwnX9wODYKeAYRVHz7ifshB34ppW2Bq2ZiXbYzJvZ2BMqJHB0vONPSMQ2B4dRjEOr1gPC2BUdIFCnvtWK2BtSQFT2Bxe5cSz15aEb2Fs0TUTAJvp6K3wGPOhpQY4jtW4R8c9HTOPSRt3GyvxIi36WmMARA3DV2lTpSlyLHUAgEU0Q2FmcbgQxGyD30gYUCFy2B8NAH8z32Fwfi3HAPb4eQ3D3D (61.151.178.167) 0.57ms
+[I 03:45:31.775 NotebookApp] 302 GET /tree?nsukey=wy2Bz5dBApzBwnX9wODYKeAYRVHz7ifshB34ppW2Bq2ZiXbYzJvZ2BMqJHB0vONPSMQ2B4dRjEOr1gPC2BUdIFCnvtWK2BtSQFT2Bxe5cSz15aEb2Fs0TUTAJvp6K3wGPOhpQY4jtW4R8c9HTOPSRt3GyvxIi36WmMARA3DV2lTpSlyLHUAgEU0Q2FmcbgQxGyD30gYUCFy2B8NAH8z32Fwfi3HAPb4eQ3D3D (101.226.225.84) 0.78ms
+[I 03:45:35.093 NotebookApp] 302 GET / (115.188.153.0) 0.52ms
+[I 03:45:35.133 NotebookApp] 302 GET /tree? (115.188.153.0) 0.71ms
+[I 03:45:35.223 NotebookApp] 302 GET / (115.188.153.0) 0.36ms
+[I 03:45:35.274 NotebookApp] 302 GET /tree? (115.188.153.0) 0.52ms
+[W 03:45:55.863 NotebookApp] 401 POST /login?next=%2Ftree%3F (115.188.153.0) 1.56ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[W 03:46:00.587 NotebookApp] 401 POST /login?next=%2Ftree%3F (115.188.153.0) 1.56ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[W 03:46:07.655 NotebookApp] 401 POST /login?next=%2Ftree%3F (115.188.153.0) 1.63ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[W 03:46:14.331 NotebookApp] 401 POST /login?next=%2Ftree%3F (115.188.153.0) 1.52ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[I 03:46:23.513 NotebookApp] 302 GET / (101.227.131.247) 0.47ms
+[I 03:46:30.506 NotebookApp] 302 GET /?nsukey=wy%2Bz5dBApzBwnX9wODYKeAYRVHz7ifshB34ppW%2Bq2ZiXbYzJvZ%2BMqJHB0vONPSMQ%2B4dRjEOr1gPC%2BUdIFCnvtWK%2BtSQFT%2Bxe5cSz15aEb%2Fs0TUTAJvp6K3wGPOhpQY4jtW4R8c9HTOPSRt3GyvxIi36WmMARA3DV2lTpSlyLHUAgEU0Q%2FmcbgQxGyD30gYUCFy%2B8NAH8z3%2Fwfi3HAPb4eQ%3D%3D (101.226.86.164) 0.51ms
+[I 03:46:30.664 NotebookApp] 302 GET /?nsukey=wy%2Bz5dBApzBwnX9wODYKeAYRVHz7ifshB34ppW%2Bq2ZiXbYzJvZ%2BMqJHB0vONPSMQ%2B4dRjEOr1gPC%2BUdIFCnvtWK%2BtSQFT%2Bxe5cSz15aEb%2Fs0TUTAJvp6K3wGPOhpQY4jtW4R8c9HTOPSRt3GyvxIi36WmMARA3DV2lTpSlyLHUAgEU0Q%2FmcbgQxGyD30gYUCFy%2B8NAH8z3%2Fwfi3HAPb4eQ%3D%3D (101.226.113.56) 0.50ms
+[W 03:46:42.223 NotebookApp] 401 POST /login?next=%2Ftree%3F (115.188.153.0) 1.58ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[W 03:46:55.471 NotebookApp] 401 POST /login?next=%2Ftree%3F (115.188.153.0) 1.55ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[I 03:47:01.274 NotebookApp] 302 GET / (115.188.153.0) 0.45ms
+[I 03:47:01.318 NotebookApp] 302 GET / (115.188.153.0) 0.34ms
+[I 03:47:01.330 NotebookApp] 302 GET /tree? (115.188.153.0) 0.52ms
+[I 03:47:01.362 NotebookApp] 302 GET /tree? (115.188.153.0) 0.63ms
+[I 03:57:23.495 NotebookApp] Malformed HTTP message from 125.238.252.138: Malformed HTTP request line
+[I 03:58:21.855 NotebookApp] Malformed HTTP message from 125.238.252.138: Malformed HTTP request line
+[I 03:58:21.922 NotebookApp] Malformed HTTP message from 125.238.252.138: Malformed HTTP headers: '\n\x01\x00\x00eºº\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00#\x00\x00\x00\r\x00\x14\x00'
+[I 03:58:27.946 NotebookApp] Malformed HTTP message from 125.238.252.138: Malformed HTTP headers: ''
+[I 03:59:39.064 NotebookApp] 302 GET / (125.238.252.138) 0.46ms
+[I 03:59:39.100 NotebookApp] 302 GET /tree? (125.238.252.138) 0.58ms
+[I 03:59:52.764 NotebookApp] 302 POST /login?next=%2Ftree%3F (125.238.252.138) 1.09ms
+[I 04:01:40.010 NotebookApp] 302 GET / (191.100.11.94) 0.45ms
+[I 04:50:44.103 NotebookApp] 302 GET / (187.108.110.200) 0.49ms
+[I 06:15:55.333 NotebookApp] 302 GET / (90.179.28.139) 0.54ms
+[W 09:07:18.982 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 09:39:11.839 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 14:26:27.354 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 19:45:52.349 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.56ms referer=None
+[I 20:47:03.984 NotebookApp] 302 GET / (139.162.83.10) 0.50ms
+[W 00:18:49.609 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 05:37:00.190 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 06:07:35.795 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 08:20:16.887 NotebookApp] 302 GET / (182.55.149.115) 0.51ms
+[W 10:46:15.189 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 13:19:27.508 NotebookApp] 302 GET / (141.212.122.16) 0.49ms
+[I 13:19:27.762 NotebookApp] 302 GET /tree? (141.212.122.16) 0.67ms
+[W 17:46:08.586 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 21:43:31.187 NotebookApp] 302 GET / (158.140.140.64) 0.51ms
+[W 21:57:23.375 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 22:31:13.173 NotebookApp] 302 GET / (197.153.145.42) 0.47ms
+[W 23:52:47.252 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 06:31:00.686 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 06:59:07.106 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[I 08:41:36.455 NotebookApp] 302 GET / (176.163.142.219) 0.50ms
+[W 11:00:09.444 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.86ms referer=None
+[I 11:04:08.881 NotebookApp] 302 GET / (107.170.226.88) 0.46ms
+[W 17:10:31.557 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 18:37:45.948 NotebookApp] 302 GET / (168.1.128.38) 0.46ms
+[W 20:42:11.266 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[I 23:01:12.794 NotebookApp] 302 GET / (185.135.98.235) 0.56ms
+[W 01:28:12.654 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[I 06:35:23.068 NotebookApp] 302 GET / (113.172.101.35) 0.49ms
+[W 06:56:34.018 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 09:59:07.085 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 15:40:18.156 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.95ms referer=None
+[W 17:11:13.045 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 19:15:23.378 NotebookApp] 404 GET /webfig/roteros.info (188.92.74.189) 1.47ms referer=None
+[I 23:51:04.111 NotebookApp] 302 GET / (94.19.231.199) 0.47ms
+[W 00:56:43.335 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 03:29:34.655 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 04:36:57.288 NotebookApp] 302 GET / (47.72.195.178) 0.48ms
+[I 08:32:36.293 NotebookApp] 302 GET / (196.52.43.60) 0.58ms
+[W 08:39:23.354 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 11:33:51.144 NotebookApp] 302 GET / (47.72.195.178) 0.48ms
+[I 11:33:57.354 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 11:39:57.223 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 11:41:57.169 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 11:43:57.172 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 11:45:57.171 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 12:39:57.188 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 12:41:57.188 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:42:22.865 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.67ms referer=None
+[I 12:43:57.192 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 12:45:57.194 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 12:47:57.193 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 12:49:57.198 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 12:51:57.195 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 12:53:57.198 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 12:56:28.223 NotebookApp] Creating new notebook in 
+[I 12:56:29.717 NotebookApp] Kernel started: f5bf9fa0-0875-4917-bc75-2c5fd8b1b4cc
+[I 12:56:30.744 NotebookApp] Adapting to protocol v5.1 for kernel f5bf9fa0-0875-4917-bc75-2c5fd8b1b4cc
+[I 12:57:12.987 NotebookApp] Starting buffering for f5bf9fa0-0875-4917-bc75-2c5fd8b1b4cc:a4d9245f7c44473b83841e5cb6d3800c
+[I 12:57:59.664 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 12:59:59.691 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:01:59.665 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:07:59.740 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:09:59.670 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:11:59.673 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:13:59.675 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:15:59.694 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:17:59.698 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:25:59.756 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:27:59.702 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:29:59.686 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:45:59.741 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:47:59.692 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:49:59.696 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 13:51:59.701 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 14:40:11.816 NotebookApp] 302 GET / (220.246.39.184) 0.54ms
+[I 15:06:43.707 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 15:08:57.356 NotebookApp] WebSocket ping timeout after 119951 ms.
+[I 15:09:02.359 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:4de7f605ba9447a9b3adeeeb149a89bc
+[I 17:21:03.600 NotebookApp] 302 GET / (190.74.166.163) 0.46ms
+[I 17:30:09.481 NotebookApp] 302 GET / (58.182.216.226) 0.51ms
+[W 17:30:21.637 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.63ms referer=None
+[W 20:00:52.879 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 21:12:16.450 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 21:12:16.451 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:4de7f605ba9447a9b3adeeeb149a89bc
+[I 21:47:40.407 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 21:49:40.357 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 21:51:40.356 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 21:53:40.503 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 21:57:01.400 NotebookApp] Creating new notebook in 
+[I 21:57:03.028 NotebookApp] Kernel started: c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 21:57:03.532 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 21:59:03.486 NotebookApp] Saving file at /Untitled1.ipynb
+[I 21:59:40.361 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 22:01:03.110 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:01:40.360 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 22:02:05.855 NotebookApp] Adapting to protocol v5.1 for kernel f5bf9fa0-0875-4917-bc75-2c5fd8b1b4cc
+[I 22:02:08.307 NotebookApp] Starting buffering for f5bf9fa0-0875-4917-bc75-2c5fd8b1b4cc:75157d89168b4af696f6067b064f940b
+[I 22:02:24.583 NotebookApp] Kernel shutdown: f5bf9fa0-0875-4917-bc75-2c5fd8b1b4cc
+[W 22:02:24.585 NotebookApp] delete /Untitled.ipynb
+[I 22:03:03.110 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:05:03.495 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:09:40.362 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 22:11:40.366 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 22:13:40.372 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 22:15:40.371 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 22:17:40.369 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 22:27:03.170 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:29:03.112 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:49:03.127 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:51:03.515 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:53:03.513 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:57:03.139 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:59:03.134 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:01:03.141 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:02:31.730 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:03:03.135 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:05:03.158 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:09:03.139 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:11:03.141 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:13:03.525 NotebookApp] Saving file at /Untitled1.ipynb
+[W 02:56:25.373 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 03:17:33.534 NotebookApp] WebSocket ping timeout after 119952 ms.
+[I 03:17:38.538 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:da17282c940e40ef8761eceedf0b6610
+[W 03:17:46.454 NotebookApp] WebSocket ping timeout after 119933 ms.
+[I 03:17:51.455 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:4de7f605ba9447a9b3adeeeb149a89bc
+[I 05:00:04.347 NotebookApp] 302 GET / (139.162.83.10) 0.51ms
+[I 06:35:40.609 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 06:35:40.609 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:4de7f605ba9447a9b3adeeeb149a89bc
+[I 06:36:20.658 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 06:36:20.659 NotebookApp] Restoring connection for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:da17282c940e40ef8761eceedf0b6610
+[I 06:39:23.232 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:4de7f605ba9447a9b3adeeeb149a89bc
+[I 06:39:23.245 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:da17282c940e40ef8761eceedf0b6610
+[W 07:20:26.133 NotebookApp] 404 GET http://t3.proxy-checks.com/favicon.ico (95.25.225.238) 1.49ms referer=None
+[W 07:20:26.495 NotebookApp] 403 POST http://t3.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 07:20:26.497 NotebookApp] 403 POST http://t3.proxy-checks.com/favicon.ico (95.25.225.238) 1.99ms referer=None
+[W 07:20:26.941 NotebookApp] 404 GET http://23.227.199.190/favicon.ico (95.25.225.238) 1.47ms referer=None
+[W 07:20:28.550 NotebookApp] 405 CONNECT t2.proxy-checks.com:443 (95.25.225.238) 1.64ms referer=None
+[W 07:20:33.115 NotebookApp] 405 CONNECT 37.235.53.161:443 (95.25.225.238) 2.04ms referer=None
+[W 07:20:34.333 NotebookApp] 403 POST http://t4.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 07:20:34.334 NotebookApp] 403 POST http://t4.proxy-checks.com/favicon.ico (95.25.225.238) 1.79ms referer=None
+[W 08:21:35.812 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 11:17:21.328 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 12:50:26.565 NotebookApp] 302 GET / (47.72.195.178) 0.44ms
+[I 12:50:37.139 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 12:50:51.101 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:65393f176e0545d19d7d60234728dcf8
+[I 13:11:04.134 NotebookApp] 302 GET /tree? (106.120.160.114) 0.67ms
+[I 13:11:06.492 NotebookApp] 302 GET / (101.199.112.52) 0.45ms
+[I 13:11:06.735 NotebookApp] 302 GET / (101.199.121.77) 0.46ms
+[I 13:11:06.818 NotebookApp] 302 GET /tree? (101.199.112.52) 0.65ms
+[I 13:11:07.949 NotebookApp] 302 GET /tree? (101.199.121.77) 0.62ms
+[I 13:11:18.390 NotebookApp] 302 GET / (180.163.220.60) 0.46ms
+[I 13:11:20.590 NotebookApp] 302 GET /tree? (180.163.220.60) 0.64ms
+[I 13:11:32.468 NotebookApp] 302 GET /tree? (220.181.132.200) 0.62ms
+[W 15:30:46.798 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 7.53ms referer=None
+[W 18:51:32.351 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.56ms referer=None
+[W 22:00:16.226 NotebookApp] 404 GET http://t12.proxy-checks.com/favicon.ico (95.25.225.238) 9.55ms referer=None
+[W 22:00:16.572 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 22:00:16.573 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (95.25.225.238) 1.93ms referer=None
+[W 22:00:17.457 NotebookApp] 404 GET http://23.227.199.190/favicon.ico (95.25.225.238) 1.44ms referer=None
+[W 22:01:13.984 NotebookApp] 404 GET http://t17.proxy-checks.com/favicon.ico (95.25.225.238) 1.47ms referer=None
+[W 22:01:14.335 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 22:01:14.336 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.225.238) 1.90ms referer=None
+[W 22:01:14.843 NotebookApp] 404 GET http://158.58.168.237/favicon.ico (95.25.225.238) 1.43ms referer=None
+[W 00:39:08.261 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 00:39:08.806 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 00:41:09.742 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 00:41:09.742 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[W 00:57:21.304 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.59ms referer=None
+[I 02:20:37.804 NotebookApp] 302 GET / (123.192.84.51) 0.45ms
+[I 03:30:35.627 NotebookApp] 302 GET / (179.97.80.118) 0.46ms
+[I 05:24:36.556 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a717e220018a4bd492907342adab6859
+[W 05:31:44.269 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[I 05:34:27.135 NotebookApp] 302 GET / (58.177.59.118) 0.51ms
+[W 07:08:56.633 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.53ms referer=None
+[I 07:51:34.972 NotebookApp] 302 GET / (54.200.29.204) 0.51ms
+[I 11:09:04.065 NotebookApp] 302 GET / (162.243.133.162) 0.98ms
+[W 12:43:52.184 NotebookApp] 404 GET http://t8.proxy-checks.com/favicon.ico (95.25.225.238) 1.47ms referer=None
+[W 12:43:52.551 NotebookApp] 403 POST http://t8.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 12:43:52.552 NotebookApp] 403 POST http://t8.proxy-checks.com/favicon.ico (95.25.225.238) 1.90ms referer=None
+[W 12:43:52.899 NotebookApp] 404 GET http://23.227.199.190/favicon.ico (95.25.225.238) 1.50ms referer=None
+[W 12:44:41.462 NotebookApp] 404 GET http://t9.proxy-checks.com/favicon.ico (95.25.225.238) 1.42ms referer=None
+[W 12:44:41.818 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 12:44:41.819 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.225.238) 1.86ms referer=None
+[W 12:44:42.189 NotebookApp] 404 GET http://195.123.218.96/favicon.ico (95.25.225.238) 1.49ms referer=None
+[I 13:20:56.330 NotebookApp] 302 GET / (196.52.43.114) 0.60ms
+[W 13:59:12.891 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 16:10:56.949 NotebookApp] 404 GET /manager/html (202.43.154.162) 2.22ms referer=None
+[I 16:51:17.992 NotebookApp] 302 GET / (5.157.105.134) 0.48ms
+[W 18:06:07.970 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 21:15:53.459 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[W 01:09:28.562 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 04:20:18.381 NotebookApp] 302 GET / (139.162.83.10) 0.52ms
+[W 04:58:18.808 NotebookApp] 404 GET http://t6.proxy-checks.com/favicon.ico (95.25.225.238) 1.45ms referer=None
+[W 04:58:19.170 NotebookApp] 403 POST http://t6.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 04:58:19.172 NotebookApp] 403 POST http://t6.proxy-checks.com/favicon.ico (95.25.225.238) 1.90ms referer=None
+[W 04:58:19.526 NotebookApp] 404 GET http://23.227.199.190/favicon.ico (95.25.225.238) 1.46ms referer=None
+[W 04:59:47.351 NotebookApp] 404 GET http://t5.proxy-checks.com/favicon.ico (95.25.225.238) 1.40ms referer=None
+[W 04:59:47.706 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 04:59:47.707 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (95.25.225.238) 1.98ms referer=None
+[W 04:59:48.066 NotebookApp] 404 GET http://95.47.161.39/favicon.ico (95.25.225.238) 1.43ms referer=None
+[W 06:27:12.268 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 12:06:02.623 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 14:56:19.202 NotebookApp] 302 GET / (196.52.43.124) 0.49ms
+[W 16:19:08.722 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 19:18:53.603 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 20:37:12.461 NotebookApp] 302 GET / (37.123.139.73) 0.51ms
+[W 20:37:31.165 NotebookApp] 404 GET http://t8.proxy-checks.com/favicon.ico (95.25.225.238) 1.47ms referer=None
+[W 20:37:31.519 NotebookApp] 403 POST http://t8.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 20:37:31.521 NotebookApp] 403 POST http://t8.proxy-checks.com/favicon.ico (95.25.225.238) 1.93ms referer=None
+[W 20:37:31.930 NotebookApp] 404 GET http://158.58.168.237/favicon.ico (95.25.225.238) 1.49ms referer=None
+[W 20:39:26.988 NotebookApp] 404 GET http://t18.proxy-checks.com/favicon.ico (95.25.225.238) 1.44ms referer=None
+[W 20:39:27.339 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 20:39:27.340 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (95.25.225.238) 1.87ms referer=None
+[W 20:39:27.825 NotebookApp] 404 GET http://91.233.117.215/favicon.ico (95.25.225.238) 1.47ms referer=None
+[I 20:51:35.674 NotebookApp] 302 GET / (188.59.105.86) 0.48ms
+[W 00:25:51.572 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.01ms referer=None
+[W 03:04:41.873 NotebookApp] 404 GET /webfig/roteros.info (179.216.146.224) 1.52ms referer=None
+[I 05:23:16.158 NotebookApp] 302 GET / (122.53.82.239) 0.54ms
+[I 06:51:48.999 NotebookApp] 302 GET / (79.136.97.50) 0.54ms
+[W 07:18:56.974 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 08:02:52.011 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[I 11:33:51.309 NotebookApp] 302 GET / (171.225.69.241) 0.55ms
+[W 12:01:34.889 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[I 12:13:58.515 NotebookApp] 302 GET / (47.72.209.189) 0.47ms
+[W 12:14:05.022 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:14:05.741 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 12:18:05.623 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:18:05.624 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:20:05.624 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:20:05.624 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:30:05.681 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:30:05.682 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:34:05.631 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:34:05.631 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:36:05.631 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:36:05.631 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:40:36.214 NotebookApp] 302 GET / (222.164.40.53) 0.50ms
+[W 13:23:58.262 NotebookApp] 404 GET http://t20.proxy-checks.com/favicon.ico (95.25.225.238) 1.47ms referer=None
+[W 13:23:58.616 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 13:23:58.617 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.225.238) 1.88ms referer=None
+[W 13:23:58.960 NotebookApp] 404 GET http://91.233.117.215/favicon.ico (95.25.225.238) 1.41ms referer=None
+[W 13:28:05.499 NotebookApp] 404 GET http://t4.proxy-checks.com/favicon.ico (95.25.225.238) 1.42ms referer=None
+[W 13:28:05.850 NotebookApp] 403 POST http://t4.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 13:28:05.851 NotebookApp] 403 POST http://t4.proxy-checks.com/favicon.ico (95.25.225.238) 1.90ms referer=None
+[W 13:28:06.209 NotebookApp] 404 GET http://37.235.53.161/favicon.ico (95.25.225.238) 1.46ms referer=None
+[W 13:51:35.744 NotebookApp] WebSocket ping timeout after 119949 ms.
+[I 13:51:40.746 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a71104757b014fc0b3a59f02b7645125
+[I 16:42:45.254 NotebookApp] 302 GET / (171.248.55.203) 0.49ms
+[W 17:57:56.906 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 20:31:37.811 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 20:33:57.768 NotebookApp] 302 GET / (141.212.122.144) 0.45ms
+[I 20:33:58.018 NotebookApp] 302 GET /tree? (141.212.122.144) 0.72ms
+[W 02:32:04.369 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.60ms referer=None
+[I 02:32:25.550 NotebookApp] 302 GET / (114.33.148.106) 0.51ms
+[I 03:45:02.582 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 03:45:02.582 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a71104757b014fc0b3a59f02b7645125
+[W 03:45:21.083 NotebookApp] delete /eshop-eer.png
+[W 05:42:49.534 NotebookApp] 404 GET http://t18.proxy-checks.com/favicon.ico (95.25.225.238) 1.44ms referer=None
+[W 05:42:49.877 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 05:42:49.879 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (95.25.225.238) 1.95ms referer=None
+[W 05:42:50.295 NotebookApp] 404 GET http://195.123.237.86/favicon.ico (95.25.225.238) 1.51ms referer=None
+[W 05:44:42.383 NotebookApp] 404 GET http://t20.proxy-checks.com/favicon.ico (95.25.225.238) 1.42ms referer=None
+[W 05:44:42.743 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 05:44:42.745 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.225.238) 1.99ms referer=None
+[W 05:44:43.115 NotebookApp] 404 GET http://195.123.237.86/favicon.ico (95.25.225.238) 1.40ms referer=None
+[W 05:48:04.262 NotebookApp] Replacing stale connection: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a71104757b014fc0b3a59f02b7645125
+[I 05:48:09.264 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a71104757b014fc0b3a59f02b7645125
+[I 05:48:09.265 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 05:48:09.266 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a71104757b014fc0b3a59f02b7645125
+[W 07:23:09.684 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.60ms referer=None
+[W 11:47:08.458 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 12:29:58.339 NotebookApp] 302 GET / (177.11.16.137) 0.47ms
+[W 14:23:09.268 NotebookApp] WebSocket ping timeout after 119948 ms.
+[I 14:23:14.272 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a71104757b014fc0b3a59f02b7645125
+[W 14:53:30.999 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.56ms referer=None
+[I 16:11:05.772 NotebookApp] 302 GET / (46.101.41.36) 0.46ms
+[I 17:00:34.486 NotebookApp] 302 GET / (168.1.128.35) 0.46ms
+[W 22:13:26.272 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[W 22:19:09.516 NotebookApp] 404 GET http://t3.proxy-checks.com/favicon.ico (95.25.225.238) 1.46ms referer=None
+[W 22:19:09.873 NotebookApp] 403 POST http://t3.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 22:19:09.875 NotebookApp] 403 POST http://t3.proxy-checks.com/favicon.ico (95.25.225.238) 1.88ms referer=None
+[W 22:19:10.236 NotebookApp] 404 GET http://178.209.51.169/favicon.ico (95.25.225.238) 1.43ms referer=None
+[I 22:20:52.837 NotebookApp] Malformed HTTP message from 95.25.225.238: Malformed HTTP request line
+[W 22:20:53.980 NotebookApp] 404 GET http://205.185.113.134/favicon.ico (95.25.225.238) 1.50ms referer=None
+[I 22:57:02.156 NotebookApp] 302 GET / (190.94.140.117) 0.48ms
+[I 02:09:14.495 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 02:09:14.496 NotebookApp] Restoring connection for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a71104757b014fc0b3a59f02b7645125
+[I 02:16:26.343 NotebookApp] 302 GET / (139.162.83.10) 0.59ms
+[W 02:18:44.499 NotebookApp] WebSocket ping timeout after 119149 ms.
+[I 02:18:49.501 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a71104757b014fc0b3a59f02b7645125
+[I 02:23:16.464 NotebookApp] 302 GET / (196.52.43.87) 0.56ms
+[W 03:04:58.459 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.53ms referer=None
+[I 03:14:08.047 NotebookApp] 302 GET / (71.6.135.131) 0.49ms
+[I 03:14:08.345 NotebookApp] 302 GET /tree (71.6.135.131) 0.59ms
+[I 04:11:54.723 NotebookApp] 302 GET / (91.135.101.129) 0.46ms
+[W 05:02:21.286 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 08:00:46.160 NotebookApp] 302 GET / (42.3.72.24) 0.48ms
+[W 08:11:27.720 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 11:53:08.741 NotebookApp] 302 GET / (47.72.191.25) 1.01ms
+[I 11:53:17.482 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 11:55:18.141 NotebookApp] Saving file at /练习.ipynb
+[I 11:57:28.736 NotebookApp] Uploading file to /eshop-eer.png
+[I 11:59:18.144 NotebookApp] Saving file at /练习.ipynb
+[W 13:16:52.373 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 13:23:47.486 NotebookApp] WebSocket ping timeout after 119939 ms.
+[I 13:23:52.488 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[W 15:10:19.093 NotebookApp] 404 GET http://t17.proxy-checks.com/favicon.ico (95.25.225.238) 1.44ms referer=None
+[W 15:10:19.457 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 15:10:19.459 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.225.238) 1.95ms referer=None
+[W 15:10:19.868 NotebookApp] 404 GET http://23.227.199.190/favicon.ico (95.25.225.238) 1.47ms referer=None
+[W 15:11:55.661 NotebookApp] 404 GET http://t19.proxy-checks.com/favicon.ico (95.25.225.238) 1.56ms referer=None
+[W 15:11:56.013 NotebookApp] 403 POST http://t19.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 15:11:56.014 NotebookApp] 403 POST http://t19.proxy-checks.com/favicon.ico (95.25.225.238) 1.90ms referer=None
+[W 15:11:56.691 NotebookApp] 404 GET http://195.123.218.96/favicon.ico (95.25.225.238) 1.49ms referer=None
+[W 20:57:49.926 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 22:01:26.181 NotebookApp] 302 GET / (42.200.212.44) 0.50ms
+[W 22:13:53.589 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.07ms referer=None
+[I 23:10:42.718 NotebookApp] 302 GET / (159.65.64.88) 0.48ms
+[I 03:07:12.583 NotebookApp] 302 GET / (86.107.114.225) 0.57ms
+[I 05:01:38.465 NotebookApp] 302 GET / (39.109.148.140) 0.52ms
+[W 05:06:18.883 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 06:23:15.186 NotebookApp] 404 GET http://t17.proxy-checks.com/favicon.ico (95.25.225.238) 1.47ms referer=None
+[W 06:23:15.533 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 06:23:15.534 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.225.238) 1.91ms referer=None
+[W 06:23:15.889 NotebookApp] 404 GET http://37.235.56.23/favicon.ico (95.25.225.238) 1.44ms referer=None
+[W 06:24:34.818 NotebookApp] 404 GET http://t9.proxy-checks.com/favicon.ico (95.25.225.238) 1.48ms referer=None
+[W 06:24:35.171 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 06:24:35.173 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.225.238) 1.97ms referer=None
+[W 06:24:35.513 NotebookApp] 404 GET http://178.209.51.169/favicon.ico (95.25.225.238) 1.48ms referer=None
+[W 07:58:13.294 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 08:16:58.230 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 08:16:58.231 NotebookApp] Restoring connection for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[W 11:48:29.651 NotebookApp] Replacing stale connection: c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[I 11:48:34.653 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[I 11:48:34.654 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 11:48:34.655 NotebookApp] Restoring connection for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[I 12:31:03.288 NotebookApp] 302 GET / (77.73.67.174) 0.46ms
+[W 12:47:04.204 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 14:46:34.656 NotebookApp] WebSocket ping timeout after 119948 ms.
+[I 14:46:39.658 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[W 18:51:51.400 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 19:56:54.884 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[W 21:27:39.812 NotebookApp] 404 GET http://t9.proxy-checks.com/favicon.ico (95.25.225.238) 1.43ms referer=None
+[W 21:27:40.155 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 21:27:40.157 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.225.238) 1.98ms referer=None
+[W 21:27:40.527 NotebookApp] 404 GET http://37.235.53.161/favicon.ico (95.25.225.238) 1.50ms referer=None
+[W 21:29:06.625 NotebookApp] 404 GET http://t6.proxy-checks.com/favicon.ico (95.25.225.238) 1.46ms referer=None
+[W 21:29:06.973 NotebookApp] 403 POST http://t6.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 21:29:06.974 NotebookApp] 403 POST http://t6.proxy-checks.com/favicon.ico (95.25.225.238) 1.90ms referer=None
+[W 21:29:07.439 NotebookApp] 404 GET http://37.235.55.20/favicon.ico (95.25.225.238) 1.44ms referer=None
+[I 23:18:22.380 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 23:18:22.381 NotebookApp] Restoring connection for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[I 02:09:52.479 NotebookApp] 302 GET / (158.140.225.26) 0.44ms
+[W 02:13:22.382 NotebookApp] WebSocket ping timeout after 119967 ms.
+[I 02:13:27.384 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[W 02:40:09.962 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 04:34:36.131 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 07:06:03.557 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.51ms referer=None
+[W 07:06:26.988 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.38ms referer=None
+[I 08:00:58.214 NotebookApp] 302 GET / (66.240.192.138) 0.48ms
+[I 08:00:58.506 NotebookApp] 302 GET /tree (66.240.192.138) 0.60ms
+[W 08:44:24.763 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.42ms referer=None
+[I 09:53:35.412 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 09:53:35.413 NotebookApp] Restoring connection for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[W 10:31:17.423 NotebookApp] 404 GET http://t7.proxy-checks.com/favicon.ico (95.25.225.238) 12.61ms referer=None
+[W 10:31:17.763 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 10:31:17.764 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (95.25.225.238) 1.87ms referer=None
+[W 10:31:18.299 NotebookApp] 404 GET http://178.209.51.169/favicon.ico (95.25.225.238) 1.50ms referer=None
+[W 10:32:48.266 NotebookApp] 404 GET http://t17.proxy-checks.com/favicon.ico (95.25.225.238) 1.48ms referer=None
+[W 10:32:48.625 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.225.238): '_xsrf' argument missing from POST
+[W 10:32:48.626 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.225.238) 1.90ms referer=None
+[W 10:32:48.985 NotebookApp] 404 GET http://158.255.214.106/favicon.ico (95.25.225.238) 1.50ms referer=None
+[W 11:10:39.112 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 12:41:08.257 NotebookApp] 302 GET / (103.36.84.40) 0.46ms
+[W 12:53:27.492 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 14:46:05.415 NotebookApp] WebSocket ping timeout after 119965 ms.
+[I 14:46:10.417 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[I 16:29:27.938 NotebookApp] 302 GET / (139.162.83.10) 0.49ms
+[W 18:01:12.251 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.44ms referer=None
+[W 18:01:25.663 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.40ms referer=None
+[I 18:05:38.089 NotebookApp] 302 GET / (5.186.50.136) 0.53ms
+[W 21:06:01.298 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 21:29:38.790 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 21:29:38.790 NotebookApp] Restoring connection for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[I 22:46:53.804 NotebookApp] 302 GET / (196.52.43.105) 0.57ms
+[I 23:48:45.040 NotebookApp] 302 GET / (185.2.210.37) 0.57ms
+[W 01:02:14.202 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 01:55:41.256 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 02:48:40.176 NotebookApp] 302 GET / (189.148.186.95) 0.58ms
+[I 03:27:29.360 NotebookApp] 302 GET / (161.97.195.135) 0.51ms
+[I 05:26:00.074 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:137a922b7cd94ce087dea7708f2f2c1b
+[I 05:30:36.864 NotebookApp] 302 GET / (187.108.109.55) 0.45ms
+[W 07:14:54.682 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 07:46:12.251 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 07:48:28.725 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:e2c193631fd64517884901fb5c9f51a7
+[I 09:15:04.778 NotebookApp] 302 GET / (121.74.174.121) 0.46ms
+[I 11:18:50.559 NotebookApp] Creating new file in 
+[I 11:19:00.631 NotebookApp] Saving file at /untitled.txt
+[I 12:11:47.569 NotebookApp] 302 GET / (86.127.13.194) 0.45ms
+[I 12:27:19.810 NotebookApp] 302 GET / (117.102.69.125) 0.53ms
+[I 13:08:22.001 NotebookApp] 302 GET / (158.85.81.114) 0.45ms
+[W 14:14:06.309 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 14:27:00.680 NotebookApp] 302 GET / (1.10.176.129) 0.58ms
+[W 15:33:48.055 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.45ms referer=None
+[I 18:51:38.540 NotebookApp] 302 GET / (50.197.239.189) 0.53ms
+[W 20:10:54.152 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 20:32:09.279 NotebookApp] 302 GET / (125.239.195.126) 0.45ms
+[I 20:32:09.386 NotebookApp] 302 GET /tree? (125.239.195.126) 0.71ms
+[I 20:32:41.614 NotebookApp] 302 GET / (106.120.160.114) 0.48ms
+[I 20:32:45.235 NotebookApp] 302 GET /tree (106.120.160.114) 0.64ms
+[I 20:48:02.934 NotebookApp] Wrote hashed password to /root/.jupyter/jupyter_notebook_config.json
+[I 20:48:02.935 NotebookApp] 302 POST /login?next=%2Ftree%3F (125.239.195.126) 3.29ms
+[I 20:48:20.778 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 20:50:20.693 NotebookApp] Saving file at /练习.ipynb
+[I 21:06:20.704 NotebookApp] Saving file at /练习.ipynb
+[I 21:08:20.708 NotebookApp] Saving file at /练习.ipynb
+[I 21:20:21.023 NotebookApp] Saving file at /练习.ipynb
+[I 21:46:26.864 NotebookApp] 302 GET / (59.189.109.50) 0.53ms
+[W 22:13:37.292 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[I 22:41:49.114 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:12559766cc0b4617821bfaa19a0e0272
+[I 22:42:56.098 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[W 03:12:56.100 NotebookApp] WebSocket ping timeout after 119971 ms.
+[I 03:13:01.102 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:3dca08dcce9f4b0183cb76ba0e374164
+[I 03:13:13.208 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 03:13:13.209 NotebookApp] Restoring connection for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:3dca08dcce9f4b0183cb76ba0e374164
+[I 03:27:44.502 NotebookApp] 302 GET / (212.237.53.125) 0.46ms
+[W 03:31:08.198 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 04:15:10.190 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:3dca08dcce9f4b0183cb76ba0e374164
+[I 04:15:21.997 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 04:15:52.457 NotebookApp] 302 GET /tree (106.120.160.114) 0.67ms
+[I 04:16:44.956 NotebookApp] 302 GET /tree (101.199.112.55) 0.59ms
+[I 04:17:21.984 NotebookApp] Saving file at /练习.ipynb
+[I 04:19:21.985 NotebookApp] Saving file at /练习.ipynb
+[I 04:41:22.087 NotebookApp] Saving file at /练习.ipynb
+[I 04:43:22.284 NotebookApp] Saving file at /练习.ipynb
+[I 04:55:53.986 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:0423c735bf3043379fd2c6b44e7298e9
+[W 07:35:32.769 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[I 11:02:42.737 NotebookApp] 302 GET / (41.33.58.252) 0.55ms
+[I 11:13:46.495 NotebookApp] 302 GET / (107.170.225.228) 0.47ms
+[W 11:44:01.163 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 12:20:53.465 NotebookApp] 302 GET / (121.74.174.121) 0.44ms
+[I 12:21:00.095 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 12:23:00.650 NotebookApp] Saving file at /练习.ipynb
+[I 12:41:13.570 NotebookApp] 302 GET /tree (66.102.6.62) 0.60ms
+[I 12:41:14.276 NotebookApp] 302 GET /tree? (66.102.7.252) 0.60ms
+[I 13:23:58.892 NotebookApp] Uploading file to /id_rsa
+[I 13:24:07.748 NotebookApp] Uploading file to /id_rsa.pub
+[I 13:24:12.952 NotebookApp] 302 GET / (31.135.203.148) 0.53ms
+[W 13:59:00.098 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 13:59:05.101 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:d4989dfc429d49448bf68adce274eb5a
+[I 16:56:38.610 NotebookApp] 302 GET / (110.141.224.162) 0.52ms
+[W 17:35:32.051 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 22:32:57.413 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.60ms referer=None
+[I 22:41:08.579 NotebookApp] 302 GET / (122.58.128.136) 0.43ms
+[I 22:41:38.278 NotebookApp] 302 GET /tree? (106.120.160.114) 0.71ms
+[I 22:41:48.997 NotebookApp] 302 GET /tree? (182.118.20.150) 0.63ms
+[I 22:42:00.842 NotebookApp] 302 GET / (106.120.160.114) 0.51ms
+[I 22:42:04.393 NotebookApp] 302 GET /tree (106.120.160.114) 0.72ms
+[I 22:42:05.737 NotebookApp] 302 GET /tree? (101.199.108.119) 0.63ms
+[I 22:42:17.599 NotebookApp] 302 GET /files/id_rsa?download=1 (106.120.160.114) 0.81ms
+[I 22:42:24.596 NotebookApp] 302 GET / (101.199.108.118) 0.52ms
+[I 22:42:25.896 NotebookApp] 302 GET /tree? (101.199.108.118) 0.63ms
+[I 22:42:38.158 NotebookApp] 302 GET /files/id_rsa?download=1 (101.199.110.115) 0.68ms
+[I 22:43:39.242 NotebookApp] 302 GET /files/id_rsa.pub?download=1 (106.120.160.114) 0.74ms
+[I 22:43:48.978 NotebookApp] 302 GET /files/id_rsa.pub?download=1 (101.199.110.113) 0.68ms
+[I 22:52:37.523 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 22:52:38.062 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:2af3cb618074488e8ad55496838d1407
+[I 22:52:45.796 NotebookApp] Creating new notebook in 
+[I 22:52:46.596 NotebookApp] Kernel started: e782f3ab-f008-4dfb-a253-eefd1f88d67b
+[I 22:52:47.725 NotebookApp] Adapting to protocol v5.1 for kernel e782f3ab-f008-4dfb-a253-eefd1f88d67b
+[I 22:53:10.772 NotebookApp] 302 GET /notebooks/%E7%BB%83%E4%B9%A0.ipynb (106.120.160.114) 0.77ms
+[I 22:53:28.779 NotebookApp] 302 GET /notebooks/%E7%BB%83%E4%B9%A0.ipynb (101.199.110.107) 0.65ms
+[I 22:54:46.637 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:58:42.230 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 23:00:42.837 NotebookApp] Saving file at /练习.ipynb
+[I 23:02:42.183 NotebookApp] Saving file at /练习.ipynb
+[I 23:03:11.004 NotebookApp] Creating new notebook in 
+[I 23:03:11.740 NotebookApp] Kernel started: 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 23:03:12.232 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 23:04:12.634 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 23:04:17.261 NotebookApp] Saving file at /hello.ipynb
+[I 23:04:42.191 NotebookApp] Saving file at /练习.ipynb
+[I 23:08:42.187 NotebookApp] Saving file at /练习.ipynb
+[I 23:18:46.661 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:22:46.815 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:31:03.583 NotebookApp] 302 GET / (192.241.153.62) 0.47ms
+[W 00:55:42.234 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 00:55:42.234 NotebookApp] WebSocket ping timeout after 119971 ms.
+[I 00:55:47.236 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:5672dbbe743948aa8bbde34a52864954
+[I 00:55:47.236 NotebookApp] Starting buffering for 9bd1044c-88ec-4672-a870-e66cbe9af167:b815ea1b44974d0c809410e4154c739a
+[W 00:55:47.727 NotebookApp] WebSocket ping timeout after 119953 ms.
+[I 00:55:52.728 NotebookApp] Starting buffering for e782f3ab-f008-4dfb-a253-eefd1f88d67b:382153cb3e264df38623034474ce4e07
+[I 00:56:43.875 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 00:56:43.876 NotebookApp] Restoring connection for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:5672dbbe743948aa8bbde34a52864954
+[I 00:56:43.948 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 00:56:43.949 NotebookApp] Restoring connection for 9bd1044c-88ec-4672-a870-e66cbe9af167:b815ea1b44974d0c809410e4154c739a
+[I 00:56:49.880 NotebookApp] Adapting to protocol v5.1 for kernel e782f3ab-f008-4dfb-a253-eefd1f88d67b
+[I 00:56:49.881 NotebookApp] Restoring connection for e782f3ab-f008-4dfb-a253-eefd1f88d67b:382153cb3e264df38623034474ce4e07
+[I 01:15:05.610 NotebookApp] 302 GET / (85.218.144.87) 0.57ms
+[W 01:18:10.804 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 05:33:43.619 NotebookApp] Starting buffering for e782f3ab-f008-4dfb-a253-eefd1f88d67b:382153cb3e264df38623034474ce4e07
+[I 05:33:43.619 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:5672dbbe743948aa8bbde34a52864954
+[I 05:33:43.620 NotebookApp] Starting buffering for 9bd1044c-88ec-4672-a870-e66cbe9af167:b815ea1b44974d0c809410e4154c739a
+[W 07:04:35.790 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 08:18:02.679 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 08:21:59.010 NotebookApp] 302 GET / (141.212.122.160) 0.48ms
+[I 08:21:59.297 NotebookApp] 302 GET /tree? (141.212.122.160) 0.68ms
+[W 10:32:42.519 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 10:36:41.933 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:d4989dfc429d49448bf68adce274eb5a
+[W 12:31:29.862 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 12:43:29.894 NotebookApp] 302 GET /tree (66.102.6.61) 0.69ms
+[I 13:54:06.896 NotebookApp] 302 GET / (116.99.175.188) 0.51ms
+[I 14:53:35.335 NotebookApp] 302 GET / (114.198.128.60) 0.52ms
+[W 18:03:07.897 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 21:40:41.082 NotebookApp] 302 GET / (188.166.225.95) 0.46ms
+[I 21:51:02.137 NotebookApp] 302 GET / (71.59.75.185) 0.45ms
+[I 22:23:53.126 NotebookApp] 302 GET / (118.187.6.111) 0.45ms
+[W 00:56:54.292 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.56ms referer=None
+[W 02:54:24.196 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 08:52:37.458 NotebookApp] 302 GET / (124.195.199.207) 0.51ms
+[W 10:00:23.042 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 13:30:17.052 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 13:32:34.945 NotebookApp] 302 GET / (139.162.83.10) 0.53ms
+[I 13:35:43.462 NotebookApp] 302 GET /tree (66.102.6.60) 0.60ms
+[I 13:35:49.579 NotebookApp] 302 GET / (121.74.174.121) 0.48ms
+[W 15:41:50.474 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 15:47:25.881 NotebookApp] 302 GET / (87.96.222.160) 0.57ms
+[I 17:41:28.014 NotebookApp] 302 GET / (121.55.199.128) 0.45ms
+[I 21:02:35.531 NotebookApp] 302 GET / (222.164.228.220) 0.50ms
+[W 22:50:17.273 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 01:39:32.123 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 07:21:45.648 NotebookApp] 302 GET / (210.140.168.92) 0.48ms
+[I 08:21:21.461 NotebookApp] 302 GET / (179.113.208.93) 0.46ms
+[W 08:42:30.934 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 08:55:53.057 NotebookApp] 302 GET / (110.161.89.55) 0.50ms
+[W 09:08:47.857 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.56ms referer=None
+[I 12:11:31.235 NotebookApp] 302 GET / (212.247.116.227) 0.51ms
+[W 17:13:39.171 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 17:32:43.742 NotebookApp] 302 GET / (36.78.73.36) 0.52ms
+[I 18:49:46.715 NotebookApp] 302 GET / (58.182.91.105) 0.53ms
+[W 20:21:44.187 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 20:50:38.392 NotebookApp] 302 GET / (46.167.230.130) 0.50ms
+[W 00:46:59.390 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 03:56:29.291 NotebookApp] 302 GET / (42.188.187.136) 0.52ms
+[W 04:40:51.221 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.92ms referer=None
+[I 07:40:18.590 NotebookApp] 302 GET / (172.104.24.185) 0.52ms
+[W 08:15:53.146 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.45ms referer=None
+[I 08:59:26.431 NotebookApp] 302 GET / (196.52.43.104) 0.59ms
+[W 10:59:20.536 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 11:12:09.506 NotebookApp] 302 GET / (196.52.43.106) 0.45ms
+[I 11:14:54.181 NotebookApp] 302 GET / (192.241.195.21) 0.48ms
+[I 12:21:58.709 NotebookApp] 302 GET /tree (66.102.6.60) 0.62ms
+[W 13:52:50.413 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 17:29:25.236 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 20:05:51.276 NotebookApp] 403 POST /login.php (111.73.46.142): '_xsrf' argument missing from POST
+[W 20:05:51.278 NotebookApp] 403 POST /login.php (111.73.46.142) 2.63ms referer=None
+[W 20:07:45.763 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.44ms referer=None
+[W 20:18:33.912 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 20:28:46.362 NotebookApp] 302 GET / (139.162.83.10) 0.48ms
+[W 02:02:31.377 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 05:18:05.163 NotebookApp] 302 GET / (124.248.177.133) 0.50ms
+[I 05:45:27.510 NotebookApp] 302 GET / (24.130.230.107) 0.53ms
+[W 07:14:00.898 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 12:42:49.509 NotebookApp] 302 GET /tree (66.102.6.60) 0.65ms
+[W 13:30:39.604 NotebookApp] 404 GET /phpmyadmin/scripts/setup.php (66.111.41.249) 1.61ms referer=None
+[W 13:30:39.606 NotebookApp] 404 GET (X11; (66.111.41.249) 1.11ms referer=None
+[W 13:30:39.608 NotebookApp] 404 GET Linux (66.111.41.249) 1.02ms referer=None
+[W 13:30:39.609 NotebookApp] 404 GET rv:60.0) (66.111.41.249) 1.10ms referer=None
+[W 13:30:39.610 NotebookApp] 404 GET Firefox/60.0 (66.111.41.249) 1.00ms referer=None
+[I 13:45:45.702 NotebookApp] 302 GET / (1.55.87.58) 0.49ms
+[W 14:55:35.804 NotebookApp] 404 GET //admin/config.php (46.165.243.209) 1.39ms referer=None
+[I 22:01:03.111 NotebookApp] 302 GET / (178.79.128.75) 0.45ms
+[I 22:18:47.737 NotebookApp] 302 GET / (91.34.44.125) 0.47ms
+[I 04:01:11.279 NotebookApp] 302 GET / (91.114.153.253) 0.47ms
+[I 05:41:35.343 NotebookApp] 302 GET / (54.183.211.39) 0.53ms
+[I 13:01:54.394 NotebookApp] 302 GET /tree? (106.120.160.114) 0.65ms
+[I 14:12:28.281 NotebookApp] 302 GET /tree? (101.199.108.119) 0.59ms
+[I 15:21:40.160 NotebookApp] 302 GET / (186.215.235.79) 0.45ms
+[I 02:21:40.177 NotebookApp] 302 GET / (196.52.43.96) 0.59ms
+[I 02:52:32.242 NotebookApp] 302 GET / (122.58.128.136) 0.46ms
+[I 02:52:44.992 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 02:52:48.942 NotebookApp] Starting buffering for 9bd1044c-88ec-4672-a870-e66cbe9af167:85d316cde682426a992bd4c76882b8e0
+[I 02:52:51.397 NotebookApp] Adapting to protocol v5.1 for kernel e782f3ab-f008-4dfb-a253-eefd1f88d67b
+[I 02:52:55.368 NotebookApp] Starting buffering for e782f3ab-f008-4dfb-a253-eefd1f88d67b:31e4957af9574e308d8d5e8baa6ce34b
+[W 02:52:57.725 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 02:52:58.346 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 02:53:00.231 NotebookApp] Starting buffering for 0bec3ef4-fa7b-436a-8287-f34b4aa8534d:a26971d9dfc54b179d2d4b13f87c582e
+[I 02:53:03.307 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 02:53:13.689 NotebookApp] 302 GET / (106.120.160.114) 0.58ms
+[I 02:53:14.347 NotebookApp] 302 GET /tree (106.120.160.114) 0.65ms
+[I 02:54:17.506 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 02:54:20.523 NotebookApp] Starting buffering for c60b6530-c58e-4b94-8eab-b7344b7eb8c2:717e3db08f514e7d9b3c8dd80c749634
+[I 02:54:23.387 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 02:55:35.599 NotebookApp] 302 GET / (220.181.132.199) 0.48ms
+[I 02:55:35.925 NotebookApp] 302 GET /tree? (220.181.132.199) 0.69ms
+[I 02:56:23.348 NotebookApp] Saving file at /hello.ipynb
+[I 03:18:23.458 NotebookApp] Saving file at /hello.ipynb
+[I 03:48:23.478 NotebookApp] Saving file at /hello.ipynb
+[I 03:50:23.390 NotebookApp] Saving file at /hello.ipynb
+[I 03:54:23.373 NotebookApp] Saving file at /hello.ipynb
+[I 03:56:23.377 NotebookApp] Saving file at /hello.ipynb
+[I 03:56:53.011 NotebookApp] 302 GET /notebooks/Untitled.ipynb (106.120.160.114) 0.65ms
+[I 03:57:13.687 NotebookApp] 302 GET /notebooks/Untitled.ipynb (171.13.14.132) 0.64ms
+[I 03:57:40.080 NotebookApp] 302 GET /notebooks/Untitled.ipynb (101.199.108.120) 0.62ms
+[I 04:04:23.422 NotebookApp] Saving file at /hello.ipynb
+[I 04:14:23.452 NotebookApp] Saving file at /hello.ipynb
+[I 04:18:23.395 NotebookApp] Saving file at /hello.ipynb
+ef5f3e0f5b6a0117367760a517c036df  hello.py
+ef5f3e0f5b6a0117367760a517c036df  hello.py
+ef5f3e0f5b6a0117367760a517c036df  hello.py
+[I 04:20:23.392 NotebookApp] Saving file at /hello.ipynb
+[I 04:22:23.400 NotebookApp] Saving file at /hello.ipynb
+[I 04:24:23.394 NotebookApp] Saving file at /hello.ipynb
+[I 04:32:23.531 NotebookApp] Saving file at /hello.ipynb
+[I 04:50:23.479 NotebookApp] Saving file at /hello.ipynb
+[I 05:00:23.416 NotebookApp] Saving file at /hello.ipynb
+[I 05:02:23.489 NotebookApp] Saving file at /hello.ipynb
+[I 05:08:23.551 NotebookApp] Saving file at /hello.ipynb
+[I 05:10:23.431 NotebookApp] Saving file at /hello.ipynb
+ef5f3e0f5b6a0117367760a517c036df  hello.py
+[I 05:12:23.492 NotebookApp] Saving file at /hello.ipynb
+total 268
+-rw-r--r-- 1 root     root         32 Jun 19 11:48 config
+-rw-r--r-- 1 root     root        105 Jun 19 11:46 credentials
+-rw-r--r-- 1 root     root     109899 Jun 19 11:57 eshop-eer.png
+-rwxr-xr-x 1 root     root       1940 Jun 23 23:28 headlines.py
+-rw-r--r-- 1 root     root       3013 Jun 30 05:12 hello.ipynb
+-rw-r--r-- 1 root     root        147 Jun 24 00:05 hello.py
+-rw-r--r-- 1 root     root       1675 Jun 23 13:23 id_rsa
+-rw-r--r-- 1 root     root        390 Jun 23 13:24 id_rsa.pub
+-rw------- 1 root     root      82729 Jun 30 05:12 nohup.out
+drwxr-xr-x 2 root     root       4096 Jun 24 00:18 __pycache__
+drwxrwxr-x 2 ec2-user ec2-user   4096 Jun 24 00:21 static
+-rw-r--r-- 1 root     root         19 Jun 22 11:19 synctest.txt
+drwxrwxr-x 2 ec2-user ec2-user   4096 Jun 24 00:22 templates
+-rw-r--r-- 1 root     root       3255 Jun 23 23:22 Untitled.ipynb
+-rw-r--r-- 1 root     root       6324 Jun 17 12:36 week 5 excise.ipynb
+-rw-r--r-- 1 root     root      12573 Jun 23 23:08 练习.ipynb
+total 268
+-rw-r--r-- 1 root     root         32 Jun 19 11:48 config
+-rw-r--r-- 1 root     root        105 Jun 19 11:46 credentials
+-rw-r--r-- 1 root     root     109899 Jun 19 11:57 eshop-eer.png
+-rwxr-xr-x 1 root     root       1940 Jun 23 23:28 headlines.py
+-rw-r--r-- 1 root     root       3013 Jun 30 05:12 hello.ipynb
+-rw-r--r-- 1 root     root        147 Jun 24 00:05 hello.py
+-rw-r--r-- 1 root     root       1675 Jun 23 13:23 id_rsa
+-rw-r--r-- 1 root     root        390 Jun 23 13:24 id_rsa.pub
+-rw------- 1 root     root      83740 Jun 30 05:12 nohup.out
+drwxr-xr-x 2 root     root       4096 Jun 24 00:18 __pycache__
+drwxrwxr-x 2 ec2-user ec2-user   4096 Jun 24 00:21 static
+-rw-r--r-- 1 root     root         19 Jun 22 11:19 synctest.txt
+drwxrwxr-x 2 ec2-user ec2-user   4096 Jun 24 00:22 templates
+-rw-r--r-- 1 root     root       3255 Jun 23 23:22 Untitled.ipynb
+-rw-r--r-- 1 root     root       6324 Jun 17 12:36 week 5 excise.ipynb
+-rw-r--r-- 1 root     root      12573 Jun 23 23:08 练习.ipynb
+config
+credentials
+eshop-eer.png
+headlines.py
+hello.ipynb
+hello.py
+id_rsa
+id_rsa.pub
+nohup.out
+__pycache__
+static
+synctest.txt
+templates
+Untitled.ipynb
+week 5 excise.ipynb
+练习.ipynb
+config
+credentials
+eshop-eer.png
+headlines.py
+hello.ipynb
+hello.py
+id_rsa
+id_rsa.pub
+nohup.out
+__pycache__
+static
+synctest.txt
+templates
+Untitled.ipynb
+week 5 excise.ipynb
+练习.ipynb
+config
+credentials
+eshop-eer.png
+headlines.py
+hello.ipynb
+hello.py
+id_rsa
+id_rsa.pub
+nohup.out
+__pycache__
+static
+synctest.txt
+templates
+Untitled.ipynb
+week 5 excise.ipynb
+练习.ipynb
+[I 05:14:23.500 NotebookApp] Saving file at /hello.ipynb
+[I 06:11:36.852 NotebookApp] Starting buffering for 9bd1044c-88ec-4672-a870-e66cbe9af167:e9391dacfe8c480d879662fb2868ef2b
+[W 07:03:53.685 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.48ms referer=None
+[I 07:08:49.481 NotebookApp] 302 GET /tree (64.233.172.199) 0.66ms
+[I 09:38:38.669 NotebookApp] 302 GET / (121.74.174.121) 0.50ms
+[I 09:38:50.768 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 09:40:49.953 NotebookApp] Saving file at /hello.ipynb
+md5sum: /opt/shell/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /opt/shell/templates: No such file or directory
+md5sum: /opt/shell/.python-version: No such file or directory
+md5sum: /opt/shell/__pycache__: No such file or directory
+md5sum: /opt/shell/hello.py: No such file or directory
+md5sum: /opt/shell/hello.ipynb: No such file or directory
+md5sum: /opt/shell/synctest.txt: No such file or directory
+md5sum: /opt/shell/.ipynb_checkpoints: No such file or directory
+md5sum: /opt/shell/id_rsa.pub: No such file or directory
+md5sum: /opt/shell/nohup.out: No such file or directory
+md5sum: /opt/shell/static: No such file or directory
+md5sum: /opt/shell/config: No such file or directory
+md5sum: /opt/shell/credentials: No such file or directory
+md5sum: /opt/shell/id_rsa: No such file or directory
+md5sum: /opt/shell/eshop-eer.png: No such file or directory
+md5sum: /opt/shell/Untitled.ipynb: No such file or directory
+md5sum: /opt/shell/headlines.py: No such file or directory
+md5sum: /opt/shell/练习.ipynb: No such file or directory
+md5sum: /opt/shell/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /opt/shell/templates: No such file or directory
+md5sum: /opt/shell/.python-version: No such file or directory
+md5sum: /opt/shell/__pycache__: No such file or directory
+md5sum: /opt/shell/hello.py: No such file or directory
+md5sum: /opt/shell/hello.ipynb: No such file or directory
+md5sum: /opt/shell/synctest.txt: No such file or directory
+md5sum: /opt/shell/.ipynb_checkpoints: No such file or directory
+md5sum: /opt/shell/id_rsa.pub: No such file or directory
+md5sum: /opt/shell/nohup.out: No such file or directory
+md5sum: /opt/shell/static: No such file or directory
+md5sum: /opt/shell/config: No such file or directory
+md5sum: /opt/shell/credentials: No such file or directory
+md5sum: /opt/shell/id_rsa: No such file or directory
+md5sum: /opt/shell/eshop-eer.png: No such file or directory
+md5sum: /opt/shell/Untitled.ipynb: No such file or directory
+md5sum: /opt/shell/headlines.py: No such file or directory
+md5sum: /opt/shell/练习.ipynb: No such file or directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+[I 09:42:49.949 NotebookApp] Saving file at /hello.ipynb
+[I 09:44:50.790 NotebookApp] Saving file at /hello.ipynb
+[I 09:46:49.955 NotebookApp] Saving file at /hello.ipynb
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+[I 09:48:50.763 NotebookApp] Saving file at /hello.ipynb
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+[I 09:50:49.954 NotebookApp] Saving file at /hello.ipynb
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+[I 09:52:49.958 NotebookApp] Saving file at /hello.ipynb
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+[I 09:54:49.955 NotebookApp] Saving file at /hello.ipynb
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+[I 09:56:49.959 NotebookApp] Saving file at /hello.ipynb
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/week: No such file or directory
+md5sum: 5: No such file or directory
+md5sum: excise.ipynb: No such file or directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/__pycache__: Is a directory
+md5sum: /home/todd/.ipynb_checkpoints: Is a directory
+md5sum: /home/todd/static: Is a directory
+[I 09:58:49.959 NotebookApp] Saving file at /hello.ipynb
+[I 10:06:49.960 NotebookApp] Saving file at /hello.ipynb
+[I 10:08:50.900 NotebookApp] Saving file at /hello.ipynb
+[I 10:10:50.764 NotebookApp] Saving file at /hello.ipynb
+[I 10:12:49.960 NotebookApp] Saving file at /hello.ipynb
+[I 10:14:49.960 NotebookApp] Saving file at /hello.ipynb
+md5sum: /home/todd/"week 5 excise.ipynb": No such file or directory
+[I 10:16:49.967 NotebookApp] Saving file at /hello.ipynb
+[I 10:18:50.768 NotebookApp] Saving file at /hello.ipynb
+[I 10:30:49.964 NotebookApp] Saving file at /hello.ipynb
+[I 10:32:50.772 NotebookApp] Saving file at /hello.ipynb
+md5sum: /home/todd/"week 5 excise.ipynb": No such file or directory
+[I 10:34:49.968 NotebookApp] Saving file at /hello.ipynb
+md5sum: '/home/todd/week 5 excise.ipynb': No such file or directory
+[I 10:36:49.968 NotebookApp] Saving file at /hello.ipynb
+md5sum: "/home/todd/week 5 excise.ipynb": No such file or directory
+[I 10:38:49.968 NotebookApp] Saving file at /hello.ipynb
+[I 10:40:49.972 NotebookApp] Saving file at /hello.ipynb
+[I 10:42:49.968 NotebookApp] Saving file at /hello.ipynb
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/templates: Is a directory
+md5sum: /home/todd/templates: Is a directory
+[I 10:44:49.968 NotebookApp] Saving file at /hello.ipynb
+[I 10:48:49.972 NotebookApp] Saving file at /hello.ipynb
+[I 11:06:51.729 NotebookApp] Saving file at /hello.ipynb
+[I 11:08:50.797 NotebookApp] Saving file at /hello.ipynb
+[I 12:08:49.989 NotebookApp] Saving file at /hello.ipynb
+[I 12:10:49.986 NotebookApp] Saving file at /hello.ipynb
+[I 12:12:49.990 NotebookApp] Saving file at /hello.ipynb
+[W 14:14:50.770 NotebookApp] WebSocket ping timeout after 119964 ms.
+[I 14:14:55.772 NotebookApp] Starting buffering for 9bd1044c-88ec-4672-a870-e66cbe9af167:b05fc83c129c4ab08a9622069da3e903
+[I 19:01:14.395 NotebookApp] 302 GET / (34.246.27.157) 0.49ms
+[I 02:51:28.702 NotebookApp] 302 GET / (106.14.249.198) 0.53ms
+[W 03:09:08.645 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.57ms referer=None
+[I 05:05:03.217 NotebookApp] 302 GET / (141.212.122.160) 0.46ms
+[I 05:05:03.474 NotebookApp] 302 GET /tree? (141.212.122.160) 0.67ms
+[I 06:59:17.625 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 06:59:17.626 NotebookApp] Restoring connection for 9bd1044c-88ec-4672-a870-e66cbe9af167:b05fc83c129c4ab08a9622069da3e903
+[I 07:25:35.659 NotebookApp] 302 GET /tree (64.233.172.197) 0.60ms
+[W 07:37:43.753 NotebookApp] 400 GET /api/contents/josn.txt?type=file&format=text&_=1530430662977 (121.74.174.121): /home/todd/josn.txt is not UTF-8 encoded
+[W 07:37:43.753 NotebookApp] /home/todd/josn.txt is not UTF-8 encoded
+[W 07:37:43.754 NotebookApp] 400 GET /api/contents/josn.txt?type=file&format=text&_=1530430662977 (121.74.174.121) 1.46ms referer=http://52.64.143.35:8888/edit/josn.txt
+[W 14:48:17.628 NotebookApp] WebSocket ping timeout after 119967 ms.
+[I 14:48:22.630 NotebookApp] Starting buffering for 9bd1044c-88ec-4672-a870-e66cbe9af167:b05fc83c129c4ab08a9622069da3e903
+[I 15:11:50.648 NotebookApp] 302 GET / (139.162.83.10) 0.54ms
+[I 18:06:00.858 NotebookApp] 302 GET / (101.199.120.145) 0.46ms
+[I 18:06:01.873 NotebookApp] 302 GET /tree? (101.199.120.145) 0.65ms
+[I 18:42:48.270 NotebookApp] 302 GET / (81.95.138.230) 0.46ms
+[I 20:31:43.952 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 20:31:43.953 NotebookApp] Restoring connection for 9bd1044c-88ec-4672-a870-e66cbe9af167:b05fc83c129c4ab08a9622069da3e903
+[I 20:38:56.828 NotebookApp] Starting buffering for 9bd1044c-88ec-4672-a870-e66cbe9af167:b05fc83c129c4ab08a9622069da3e903
+[W 12:08:54.227 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.41ms referer=None
+[I 13:42:14.103 NotebookApp] 302 GET / (62.133.131.98) 0.53ms
+[I 19:41:37.171 NotebookApp] 302 GET / (70.81.198.212) 0.50ms
+[W 19:45:30.164 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.42ms referer=None
+[I 22:00:52.581 NotebookApp] 302 GET / (159.89.164.151) 0.47ms
+[I 06:06:01.381 NotebookApp] 302 GET / (168.1.128.35) 0.45ms
+[I 08:51:49.885 NotebookApp] 302 GET / (185.42.61.14) 0.49ms
+[I 16:37:21.545 NotebookApp] 302 GET / (36.74.8.143) 0.52ms
+[I 00:01:06.638 NotebookApp] 302 GET / (89.247.184.220) 0.45ms
+[I 01:31:02.891 NotebookApp] 302 GET / (159.65.27.66) 0.46ms
+[I 02:39:36.716 NotebookApp] 302 GET / (196.52.43.58) 0.57ms
+[I 06:59:56.860 NotebookApp] 302 GET / (89.203.38.75) 0.60ms
+[I 10:05:35.027 NotebookApp] 302 GET / (175.136.252.161) 0.50ms
+[I 11:31:41.617 NotebookApp] 302 GET / (77.121.112.172) 0.48ms
+[W 14:27:24.863 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[I 15:34:24.530 NotebookApp] 302 GET / (180.163.220.46) 0.50ms
+[I 15:34:24.820 NotebookApp] 302 GET /tree? (180.163.220.46) 0.68ms
+[I 15:37:31.515 NotebookApp] 302 GET / (58.64.185.31) 0.47ms
+[I 15:37:32.291 NotebookApp] 302 GET /tree? (58.64.185.31) 0.66ms
+[I 15:53:35.392 NotebookApp] 302 GET / (101.199.121.223) 0.48ms
+[I 15:53:35.723 NotebookApp] 302 GET /tree? (101.199.121.223) 0.66ms
+[I 18:50:12.176 NotebookApp] 302 GET / (139.162.83.10) 0.51ms
+[W 20:36:08.034 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 00:33:42.506 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 02:23:30.525 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.16ms referer=None
+[W 06:14:34.775 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 06:15:48.139 NotebookApp] 302 GET / (139.162.83.10) 0.51ms
+[W 10:53:06.446 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 11:08:57.292 NotebookApp] 302 GET / (164.52.24.175) 0.48ms
+[W 17:25:23.666 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 20:25:55.598 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.91ms referer=None
+[W 00:58:57.894 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.58ms referer=None
+[W 04:46:47.719 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 11:51:29.411 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 13:23:52.477 NotebookApp] 302 GET / (118.187.4.141) 0.47ms
+[I 14:01:57.648 NotebookApp] 302 GET / (196.52.43.124) 0.46ms
+[W 15:32:43.297 NotebookApp] Forbidden
+[W 15:32:43.297 NotebookApp] 403 GET /api/sessions?_=1530716883150 (101.199.112.55) 1.02ms referer=None
+[W 15:33:11.276 NotebookApp] Forbidden
+[W 15:33:11.276 NotebookApp] 403 GET /api/sessions?_=1530716883150 (101.199.108.118) 0.90ms referer=None
+[W 16:15:30.657 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 16:50:38.261 NotebookApp] 302 GET / (68.71.11.227) 0.46ms
+[I 17:39:41.693 NotebookApp] 302 GET / (103.197.92.195) 0.53ms
+[I 18:13:40.225 NotebookApp] 302 GET / (46.210.105.45) 0.44ms
+[W 21:22:01.728 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 22:54:08.694 NotebookApp] 302 GET / (39.109.149.91) 0.53ms
+[W 01:33:28.132 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 02:02:05.938 NotebookApp] 302 GET / (50.28.224.16) 0.50ms
+[I 02:40:16.666 NotebookApp] 302 GET / (196.52.43.58) 0.58ms
+[W 03:11:00.765 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 06:38:42.811 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 11:05:20.876 NotebookApp] 302 GET / (91.235.245.231) 0.54ms
+[I 11:18:54.400 NotebookApp] 302 GET / (107.170.231.244) 0.47ms
+[W 11:42:24.763 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.44ms referer=None
+[W 12:01:02.869 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 18:07:00.000 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 20:08:58.571 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 00:01:06.081 NotebookApp] 302 GET / (35.154.199.109) 0.46ms
+[W 03:11:42.099 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 04:51:07.255 NotebookApp] 302 GET / (167.99.197.127) 0.47ms
+[I 05:22:06.503 NotebookApp] 302 GET / (141.212.122.32) 0.46ms
+[I 05:22:06.785 NotebookApp] 302 GET /tree? (141.212.122.32) 0.66ms
+[W 09:09:24.159 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[I 10:11:04.833 NotebookApp] 302 GET / (52.90.168.23) 0.46ms
+[I 12:48:18.456 NotebookApp] 302 GET / (46.214.224.108) 0.53ms
+[I 12:58:54.487 NotebookApp] 302 GET /tree (66.102.6.62) 0.64ms
+[W 13:34:39.998 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 16:31:39.105 NotebookApp] 302 GET / (221.120.37.184) 0.44ms
+[W 17:16:37.795 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 18:03:13.654 NotebookApp] 404 GET /struts2-rest-showcase/orders.xhtml (124.152.181.105) 1.44ms referer=None
+[W 18:03:14.089 NotebookApp] 404 GET /index.action (124.152.181.105) 1.47ms referer=None
+[W 18:03:14.526 NotebookApp] 404 GET /index.do (124.152.181.105) 1.51ms referer=None
+[W 20:43:44.844 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.58ms referer=None
+[I 20:52:48.940 NotebookApp] 302 GET / (58.87.90.198) 0.55ms
+[W 00:28:22.223 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.95ms referer=None
+[W 05:34:11.511 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 08:31:22.565 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[I 08:40:44.366 NotebookApp] 302 GET / (189.141.5.251) 0.52ms
+[I 08:40:44.383 NotebookApp] 302 GET / (189.141.5.251) 0.40ms
+[I 09:47:54.684 NotebookApp] 302 GET / (123.203.100.105) 0.53ms
+[W 14:24:26.668 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 18:08:07.145 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 18:51:19.516 NotebookApp] 302 GET / (35.177.74.182) 0.46ms
+[W 19:21:29.585 NotebookApp] 405 HEAD / (168.227.76.90) 0.50ms referer=None
+[I 19:21:30.332 NotebookApp] 302 GET /tree (168.227.76.90) 0.60ms
+[I 20:52:21.484 NotebookApp] 302 GET / (80.76.183.253) 0.48ms
+[W 22:46:10.825 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.95ms referer=None
+[I 02:36:03.500 NotebookApp] 302 GET / (123.186.208.56) 0.61ms
+[I 02:36:04.207 NotebookApp] 302 GET /tree? (123.186.208.56) 0.65ms
+[I 03:20:34.511 NotebookApp] 302 GET / (144.136.195.184) 0.45ms
+[W 03:40:03.542 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 04:01:19.565 NotebookApp] 302 GET / (47.106.153.134) 0.46ms
+[I 06:34:47.085 NotebookApp] 302 GET / (183.86.211.132) 0.46ms
+[I 06:34:47.234 NotebookApp] 302 GET /tree? (183.86.211.132) 0.64ms
+[W 06:34:47.539 NotebookApp] 404 GET /index.action (183.86.211.132) 1.43ms referer=None
+[W 06:47:50.505 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 08:10:54.418 NotebookApp] 302 GET / (50.57.143.75) 0.48ms
+[I 10:15:03.168 NotebookApp] 302 GET / (189.145.52.222) 0.50ms
+[I 10:15:06.867 NotebookApp] 302 GET / (189.145.52.222) 0.54ms
+[W 12:17:39.229 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 13:21:08.282 NotebookApp] 302 GET / (139.162.83.10) 0.51ms
+[W 17:37:04.489 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.59ms referer=None
+[W 22:12:17.777 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 22:36:27.352 NotebookApp] 302 GET / (139.162.83.10) 0.51ms
+[I 22:41:11.512 NotebookApp] 302 GET / (34.246.27.157) 0.46ms
+[I 02:31:45.697 NotebookApp] 302 GET / (151.40.38.19) 0.45ms
+[W 04:49:00.129 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 05:30:44.658 NotebookApp] 302 GET / (196.52.43.116) 0.60ms
+[W 07:08:51.771 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 12:32:17.005 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.98ms referer=None
+[W 15:35:21.386 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 15:59:16.423 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.47ms referer=None
+[I 16:41:24.127 NotebookApp] 302 GET / (61.77.133.151) 0.46ms
+[I 19:53:15.991 NotebookApp] 302 GET / (61.126.0.146) 0.48ms
+[W 20:18:21.627 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[I 21:07:19.440 NotebookApp] 302 GET / (199.102.185.206) 0.50ms
+[I 22:31:44.519 NotebookApp] 302 GET / (148.63.129.116) 0.93ms
+[W 22:44:55.641 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 02:28:15.967 NotebookApp] 302 GET / (196.52.43.124) 0.46ms
+[W 07:18:32.443 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 09:40:19.450 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 10:38:33.910 NotebookApp] 302 GET /tree (66.102.6.61) 0.64ms
+[W 15:22:23.689 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 20:42:50.855 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 00:20:44.865 NotebookApp] 302 GET / (58.185.80.166) 0.43ms
+[W 00:40:17.173 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 01:54:30.598 NotebookApp] 302 GET / (123.186.215.30) 0.52ms
+[I 01:54:31.309 NotebookApp] 302 GET /tree? (123.186.215.30) 0.73ms
+[W 04:35:56.170 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.63ms referer=None
+[I 04:45:23.292 NotebookApp] 302 GET / (54.193.66.106) 0.52ms
+[W 08:50:41.816 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 11:45:16.597 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 12:08:17.082 NotebookApp] 302 GET /tree (66.102.6.62) 0.59ms
+[W 16:17:30.844 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[I 22:00:35.469 NotebookApp] 302 GET / (96.49.108.30) 0.45ms
+[W 22:32:28.272 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 00:56:06.453 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 05:18:00.950 NotebookApp] 302 GET / (196.52.43.99) 0.58ms
+[I 05:51:26.208 NotebookApp] 302 GET / (191.252.196.233) 0.48ms
+[W 06:37:07.834 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[I 07:31:20.516 NotebookApp] 302 GET / (196.52.43.120) 0.50ms
+[W 07:31:34.516 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.48ms referer=None
+[W 08:26:37.534 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 11:15:02.836 NotebookApp] 302 GET / (139.162.83.10) 0.50ms
+[I 12:18:01.683 NotebookApp] 302 GET /tree (64.233.172.169) 0.63ms
+[W 12:54:35.714 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 12:59:26.091 NotebookApp] 302 GET / (84.238.203.149) 0.55ms
+[W 20:16:45.035 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.53ms referer=None
+[W 21:25:18.946 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 23:12:56.794 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.44ms referer=None
+[W 02:37:13.290 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 06:34:53.372 NotebookApp] 302 GET / (141.212.122.160) 0.94ms
+[I 06:34:53.627 NotebookApp] 302 GET /tree? (141.212.122.160) 0.63ms
+[W 09:43:02.385 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 10:11:40.460 NotebookApp] 302 GET / (115.29.238.155) 0.48ms
+[W 10:58:24.738 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 12:54:03.311 NotebookApp] 302 GET /tree (64.233.172.169) 0.60ms
+[W 14:45:03.899 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 19:51:11.139 NotebookApp] 302 GET / (51.15.39.207) 0.46ms
+[W 20:40:16.185 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 20:51:15.502 NotebookApp] 302 GET / (85.69.223.3) 0.50ms
+[I 21:33:41.928 NotebookApp] 302 GET / (189.143.188.124) 0.53ms
+[W 23:56:01.435 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 03:53:51.339 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.41ms referer=None
+[W 05:26:44.471 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.44ms referer=None
+[W 10:23:49.241 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 10:50:33.639 NotebookApp] 302 GET / (184.160.226.20) 0.51ms
+[W 15:03:12.525 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 19:56:31.052 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 20:04:09.825 NotebookApp] 302 GET / (139.162.83.10) 1.00ms
+[W 01:12:18.474 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 01:29:18.547 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 03:01:19.617 NotebookApp] 302 GET / (191.252.196.233) 0.47ms
+[I 06:31:09.388 NotebookApp] 302 GET / (85.69.223.3) 0.47ms
+[I 07:13:27.158 NotebookApp] 302 GET / (196.114.15.147) 0.49ms
+[I 09:13:19.916 NotebookApp] 302 GET /tree (64.233.172.165) 0.59ms
+[I 09:41:31.949 NotebookApp] 302 GET / (70.29.158.156) 0.46ms
+[W 10:00:34.471 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 12:37:40.604 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[I 13:08:20.765 NotebookApp] 302 GET / (69.23.208.31) 0.53ms
+[I 14:10:58.927 NotebookApp] 302 GET / (138.197.164.155) 0.47ms
+[I 14:11:20.937 NotebookApp] 302 GET / (80.211.60.18) 0.45ms
+[W 14:53:55.877 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 15:43:19.075 NotebookApp] 302 GET / (125.212.217.215) 0.42ms
+[I 15:43:20.615 NotebookApp] 302 GET /tree (125.212.217.215) 0.62ms
+[W 21:57:30.527 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[W 01:51:56.413 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 03:40:42.303 NotebookApp] 302 GET / (201.150.149.5) 0.45ms
+[W 04:52:16.384 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.41ms referer=None
+[I 04:57:12.331 NotebookApp] 302 GET / (196.52.43.88) 0.59ms
+[I 08:22:10.759 NotebookApp] 302 GET / (168.1.128.54) 0.47ms
+[W 09:04:50.545 NotebookApp] 403 POST / (192.251.231.111): '_xsrf' argument missing from POST
+[W 09:04:50.545 NotebookApp] 403 POST / (192.251.231.111) 0.85ms referer=None
+[W 10:53:03.122 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 16:19:53.696 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 20:10:40.773 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.57ms referer=None
+[W 20:57:24.383 NotebookApp] 404 GET http://t20.proxy-checks.com/favicon.ico (95.25.119.105) 1.46ms referer=None
+[W 20:57:24.738 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 20:57:24.742 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.119.105) 3.75ms referer=None
+[W 20:57:25.130 NotebookApp] 404 GET http://195.123.237.86/favicon.ico (95.25.119.105) 1.47ms referer=None
+[W 20:57:26.894 NotebookApp] 405 CONNECT t7.proxy-checks.com:443 (95.25.119.105) 1.63ms referer=None
+[W 20:57:42.730 NotebookApp] 405 CONNECT 37.235.53.161:443 (95.25.119.105) 1.57ms referer=None
+[W 20:57:58.369 NotebookApp] 403 POST http://t10.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 20:57:58.370 NotebookApp] 403 POST http://t10.proxy-checks.com/favicon.ico (95.25.119.105) 2.30ms referer=None
+[W 21:02:22.045 NotebookApp] 404 GET http://t10.proxy-checks.com/favicon.ico (95.25.119.105) 1.48ms referer=None
+[W 21:02:22.385 NotebookApp] 403 POST http://t10.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 21:02:22.386 NotebookApp] 403 POST http://t10.proxy-checks.com/favicon.ico (95.25.119.105) 1.87ms referer=None
+[W 21:02:24.756 NotebookApp] 404 GET http://195.123.218.96/favicon.ico (95.25.119.105) 1.43ms referer=None
+[W 21:02:25.991 NotebookApp] 405 CONNECT t3.proxy-checks.com:443 (95.25.119.105) 1.73ms referer=None
+[W 21:02:29.118 NotebookApp] 405 CONNECT 158.255.214.106:443 (95.25.119.105) 1.74ms referer=None
+[W 21:02:33.030 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 21:02:33.031 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (95.25.119.105) 1.88ms referer=None
+[I 21:42:06.361 NotebookApp] 302 GET / (122.58.118.23) 0.51ms
+[W 00:03:54.439 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 01:38:52.896 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.62ms referer=None
+[W 08:44:30.169 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[I 08:46:34.954 NotebookApp] 302 GET / (206.174.244.173) 0.52ms
+[W 08:52:20.940 NotebookApp] 404 GET http://t19.proxy-checks.com/favicon.ico (95.25.119.105) 1.51ms referer=None
+[W 08:52:21.276 NotebookApp] 403 POST http://t19.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 08:52:21.278 NotebookApp] 403 POST http://t19.proxy-checks.com/favicon.ico (95.25.119.105) 1.90ms referer=None
+[W 08:52:27.035 NotebookApp] 404 GET http://46.148.21.14/favicon.ico (95.25.119.105) 1.49ms referer=None
+[W 08:53:21.463 NotebookApp] 404 GET http://t7.proxy-checks.com/favicon.ico (95.25.119.105) 1.46ms referer=None
+[W 08:53:21.800 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 08:53:21.802 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (95.25.119.105) 2.00ms referer=None
+[W 08:53:26.115 NotebookApp] 404 GET http://205.204.73.8/favicon.ico (95.25.119.105) 1.52ms referer=None
+[W 12:12:21.167 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 17:10:30.533 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[W 20:36:30.253 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 22:35:04.861 NotebookApp] 404 GET http://t19.proxy-checks.com/favicon.ico (95.25.119.105) 1.52ms referer=None
+[W 22:35:05.196 NotebookApp] 403 POST http://t19.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 22:35:05.198 NotebookApp] 403 POST http://t19.proxy-checks.com/favicon.ico (95.25.119.105) 2.01ms referer=None
+[W 22:35:33.564 NotebookApp] 404 GET http://46.38.62.196/favicon.ico (95.25.119.105) 1.45ms referer=None
+[W 22:35:40.291 NotebookApp] 404 GET http://t20.proxy-checks.com/favicon.ico (95.25.119.105) 1.45ms referer=None
+[W 22:35:40.631 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 22:35:40.632 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.119.105) 1.87ms referer=None
+[W 22:35:41.000 NotebookApp] 404 GET http://205.185.113.134/favicon.ico (95.25.119.105) 1.51ms referer=None
+[W 22:38:02.463 NotebookApp] 404 GET http://t9.proxy-checks.com/favicon.ico (95.25.119.105) 1.44ms referer=None
+[W 22:38:02.811 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 22:38:02.812 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.119.105) 1.98ms referer=None
+[W 22:38:07.113 NotebookApp] 404 GET http://46.148.21.14/favicon.ico (95.25.119.105) 1.52ms referer=None
+[I 00:12:52.281 NotebookApp] 302 GET /tree? (101.199.112.54) 0.61ms
+[I 08:08:48.980 NotebookApp] 302 GET / (36.79.239.23) 0.51ms
+[W 09:38:53.185 NotebookApp] 404 GET http://t12.proxy-checks.com/favicon.ico (95.25.119.105) 1.48ms referer=None
+[W 09:38:53.528 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 09:38:53.530 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (95.25.119.105) 2.00ms referer=None
+[W 09:38:54.912 NotebookApp] 404 GET http://205.204.73.8/favicon.ico (95.25.119.105) 1.45ms referer=None
+[W 09:40:07.808 NotebookApp] 404 GET http://t10.proxy-checks.com/favicon.ico (95.25.119.105) 1.46ms referer=None
+[W 09:40:08.157 NotebookApp] 403 POST http://t10.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 09:40:08.158 NotebookApp] 403 POST http://t10.proxy-checks.com/favicon.ico (95.25.119.105) 1.96ms referer=None
+[W 09:40:09.159 NotebookApp] 404 GET http://195.123.218.96/favicon.ico (95.25.119.105) 1.43ms referer=None
+[W 21:54:12.775 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[I 22:57:37.732 NotebookApp] Malformed HTTP message from 95.25.119.105: Malformed HTTP request line
+[W 22:57:38.399 NotebookApp] 404 GET http://185.8.60.115/favicon.ico (95.25.119.105) 1.47ms referer=None
+[W 22:58:39.917 NotebookApp] 404 GET http://t20.proxy-checks.com/favicon.ico (95.25.119.105) 2.07ms referer=None
+[W 22:58:40.265 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 22:58:40.266 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (95.25.119.105) 1.94ms referer=None
+[W 22:58:42.634 NotebookApp] 404 GET http://205.185.113.134/favicon.ico (95.25.119.105) 1.45ms referer=None
+[I 23:15:53.208 NotebookApp] 302 GET / (196.52.43.88) 0.57ms
+[I 23:48:20.171 NotebookApp] 302 GET / (139.162.83.10) 0.60ms
+[W 00:21:26.952 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 04:14:46.105 NotebookApp] 302 GET / (168.1.128.50) 0.50ms
+[W 07:10:45.968 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[W 09:35:17.499 NotebookApp] 404 GET http://t18.proxy-checks.com/favicon.ico (95.25.119.105) 1.49ms referer=None
+[W 09:35:17.829 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 09:35:17.831 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (95.25.119.105) 1.90ms referer=None
+[W 09:35:19.162 NotebookApp] 404 GET http://205.204.73.8/favicon.ico (95.25.119.105) 1.56ms referer=None
+[W 09:36:17.022 NotebookApp] 404 GET http://t4.proxy-checks.com/favicon.ico (95.25.119.105) 1.92ms referer=None
+[W 09:36:17.361 NotebookApp] 403 POST http://t4.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 09:36:17.362 NotebookApp] 403 POST http://t4.proxy-checks.com/favicon.ico (95.25.119.105) 1.92ms referer=None
+[W 09:36:21.901 NotebookApp] 404 GET http://95.47.161.39/favicon.ico (95.25.119.105) 1.58ms referer=None
+[W 10:45:14.486 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 17:26:55.026 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 19:41:22.912 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 20:00:30.139 NotebookApp] 302 GET / (123.98.190.106) 0.53ms
+[I 20:00:30.284 NotebookApp] 302 GET /tree? (123.98.190.106) 0.65ms
+[W 20:00:30.587 NotebookApp] 404 GET /index.action (123.98.190.106) 1.49ms referer=None
+[I 20:05:19.071 NotebookApp] 302 GET / (193.27.71.22) 0.51ms
+[W 20:27:38.556 NotebookApp] 404 GET http://t9.proxy-checks.com/favicon.ico (95.25.119.105) 1.45ms referer=None
+[W 20:27:38.900 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 20:27:38.901 NotebookApp] 403 POST http://t9.proxy-checks.com/favicon.ico (95.25.119.105) 2.07ms referer=None
+[W 20:27:49.787 NotebookApp] 404 GET http://178.209.51.169/favicon.ico (95.25.119.105) 1.45ms referer=None
+[W 20:29:06.297 NotebookApp] 404 GET http://t4.proxy-checks.com/favicon.ico (95.25.119.105) 1.49ms referer=None
+[W 20:29:06.637 NotebookApp] 403 POST http://t4.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 20:29:06.639 NotebookApp] 403 POST http://t4.proxy-checks.com/favicon.ico (95.25.119.105) 2.39ms referer=None
+[W 20:29:07.001 NotebookApp] 404 GET http://91.233.117.215/favicon.ico (95.25.119.105) 1.52ms referer=None
+[I 00:38:53.713 NotebookApp] 302 GET / (202.156.122.12) 0.53ms
+[W 00:57:19.015 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[W 06:32:34.631 NotebookApp] 404 GET http://t17.proxy-checks.com/favicon.ico (95.25.119.105) 1.49ms referer=None
+[W 06:32:34.979 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 06:32:34.980 NotebookApp] 403 POST http://t17.proxy-checks.com/favicon.ico (95.25.119.105) 1.92ms referer=None
+[W 06:32:35.819 NotebookApp] 404 GET http://46.38.62.196/favicon.ico (95.25.119.105) 1.41ms referer=None
+[W 06:33:02.246 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 06:33:39.175 NotebookApp] 404 GET http://t5.proxy-checks.com/favicon.ico (95.25.119.105) 1.49ms referer=None
+[W 06:33:39.527 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 06:33:39.528 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (95.25.119.105) 1.99ms referer=None
+[W 06:33:39.873 NotebookApp] 404 GET http://95.47.161.39/favicon.ico (95.25.119.105) 1.52ms referer=None
+[W 08:19:36.458 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 12:19:58.880 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.25ms referer=None
+[I 15:05:44.355 NotebookApp] 302 GET / (141.212.122.32) 0.46ms
+[I 15:05:44.644 NotebookApp] 302 GET /tree? (141.212.122.32) 0.68ms
+[W 16:12:28.341 NotebookApp] 404 GET http://t5.proxy-checks.com/favicon.ico (95.25.119.105) 1.53ms referer=None
+[W 16:12:28.692 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 16:12:28.693 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (95.25.119.105) 1.91ms referer=None
+[W 16:12:29.040 NotebookApp] 404 GET http://205.185.113.134/favicon.ico (95.25.119.105) 1.48ms referer=None
+[W 16:13:34.890 NotebookApp] 404 GET http://t7.proxy-checks.com/favicon.ico (95.25.119.105) 1.48ms referer=None
+[W 16:13:35.238 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 16:13:35.239 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (95.25.119.105) 1.94ms referer=None
+[W 16:13:39.192 NotebookApp] 404 GET http://195.123.237.86/favicon.ico (95.25.119.105) 1.43ms referer=None
+[W 16:45:31.241 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 17:51:07.167 NotebookApp] 302 GET / (91.188.97.216) 0.57ms
+[W 21:20:34.903 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 01:25:06.313 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 02:29:38.025 NotebookApp] Malformed HTTP message from 95.25.119.105: Malformed HTTP request line
+[W 02:29:40.063 NotebookApp] 404 GET http://205.204.73.8/favicon.ico (95.25.119.105) 1.41ms referer=None
+[I 02:30:30.814 NotebookApp] Malformed HTTP message from 95.25.119.105: Malformed HTTP request line
+[W 02:30:32.149 NotebookApp] 404 GET http://37.235.53.161/favicon.ico (95.25.119.105) 1.47ms referer=None
+[I 03:08:20.657 NotebookApp] 302 GET / (139.162.83.10) 0.52ms
+[I 04:33:02.506 NotebookApp] 302 GET / (218.4.179.74) 0.56ms
+[I 04:38:58.674 NotebookApp] 302 GET / (80.82.65.198) 0.50ms
+[I 04:38:59.341 NotebookApp] 302 GET /tree? (80.82.65.198) 0.59ms
+[W 06:36:03.784 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 10:39:36.270 NotebookApp] 404 GET http://t18.proxy-checks.com/favicon.ico (95.25.119.105) 1.48ms referer=None
+[W 10:39:36.621 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 10:39:36.623 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (95.25.119.105) 1.89ms referer=None
+[W 10:39:46.058 NotebookApp] 404 GET http://158.255.214.106/favicon.ico (95.25.119.105) 1.42ms referer=None
+[W 10:40:23.149 NotebookApp] 404 GET http://t6.proxy-checks.com/favicon.ico (95.25.119.105) 1.48ms referer=None
+[W 10:40:23.491 NotebookApp] 403 POST http://t6.proxy-checks.com/favicon.ico (95.25.119.105): '_xsrf' argument missing from POST
+[W 10:40:23.493 NotebookApp] 403 POST http://t6.proxy-checks.com/favicon.ico (95.25.119.105) 1.89ms referer=None
+[W 10:40:24.471 NotebookApp] 404 GET http://195.123.237.86/favicon.ico (95.25.119.105) 1.44ms referer=None
+[I 15:18:52.645 NotebookApp] 302 GET / (212.27.212.61) 0.51ms
+[I 17:55:37.558 NotebookApp] 302 GET / (112.200.240.142) 0.49ms
+[W 19:31:48.292 NotebookApp] 404 GET http://t12.proxy-checks.com/favicon.ico (93.80.161.246) 1.47ms referer=None
+[W 19:31:48.621 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 19:31:48.623 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (93.80.161.246) 1.98ms referer=None
+[W 19:32:11.583 NotebookApp] 404 GET http://205.204.73.8/favicon.ico (93.80.161.246) 1.47ms referer=None
+[W 19:32:52.238 NotebookApp] 404 GET http://t5.proxy-checks.com/favicon.ico (93.80.161.246) 1.51ms referer=None
+[W 19:32:52.586 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 19:32:52.587 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (93.80.161.246) 1.91ms referer=None
+[W 19:32:59.024 NotebookApp] 404 GET http://158.255.214.106/favicon.ico (93.80.161.246) 1.50ms referer=None
+[W 20:15:14.630 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 20:30:22.317 NotebookApp] 302 GET / (36.75.26.153) 0.52ms
+[W 23:07:49.148 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 23:18:20.841 NotebookApp] 302 GET / (60.50.130.130) 0.58ms
+[W 03:59:25.666 NotebookApp] 404 GET http://t3.proxy-checks.com/favicon.ico (93.80.161.246) 1.55ms referer=None
+[W 03:59:26.003 NotebookApp] 403 POST http://t3.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 03:59:26.005 NotebookApp] 403 POST http://t3.proxy-checks.com/favicon.ico (93.80.161.246) 2.12ms referer=None
+[W 03:59:37.479 NotebookApp] 404 GET http://37.235.55.20/favicon.ico (93.80.161.246) 1.92ms referer=None
+[W 04:00:33.854 NotebookApp] 404 GET http://t12.proxy-checks.com/favicon.ico (93.80.161.246) 1.49ms referer=None
+[W 04:00:34.202 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 04:00:34.203 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (93.80.161.246) 1.97ms referer=None
+[W 04:00:46.078 NotebookApp] 404 GET http://46.38.62.196/favicon.ico (93.80.161.246) 1.45ms referer=None
+[W 05:26:08.569 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[W 07:41:39.286 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 11:03:48.998 NotebookApp] 404 GET http://t12.proxy-checks.com/favicon.ico (93.80.161.246) 1.41ms referer=None
+[W 11:03:49.350 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 11:03:49.351 NotebookApp] 403 POST http://t12.proxy-checks.com/favicon.ico (93.80.161.246) 1.95ms referer=None
+[W 11:03:56.128 NotebookApp] 404 GET http://205.204.73.8/favicon.ico (93.80.161.246) 1.47ms referer=None
+[W 11:04:55.232 NotebookApp] 404 GET http://t15.proxy-checks.com/favicon.ico (93.80.161.246) 1.45ms referer=None
+[W 11:04:55.581 NotebookApp] 403 POST http://t15.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 11:04:55.583 NotebookApp] 403 POST http://t15.proxy-checks.com/favicon.ico (93.80.161.246) 1.94ms referer=None
+[W 11:04:55.932 NotebookApp] 404 GET http://46.38.62.196/favicon.ico (93.80.161.246) 1.44ms referer=None
+[W 13:55:32.091 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 18:15:22.512 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 18:35:30.302 NotebookApp] 404 GET http://t3.proxy-checks.com/favicon.ico (93.80.161.246) 1.58ms referer=None
+[W 18:35:30.663 NotebookApp] 403 POST http://t3.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 18:35:30.664 NotebookApp] 403 POST http://t3.proxy-checks.com/favicon.ico (93.80.161.246) 1.96ms referer=None
+[W 18:35:31.072 NotebookApp] 404 GET http://195.123.218.96/favicon.ico (93.80.161.246) 1.49ms referer=None
+[W 18:36:18.011 NotebookApp] 404 GET http://t18.proxy-checks.com/favicon.ico (93.80.161.246) 1.44ms referer=None
+[W 18:36:18.364 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 18:36:18.366 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (93.80.161.246) 1.91ms referer=None
+[W 18:36:23.924 NotebookApp] 404 GET http://158.58.168.237/favicon.ico (93.80.161.246) 1.40ms referer=None
+[I 19:00:03.029 NotebookApp] 302 GET / (168.1.128.36) 0.47ms
+[W 21:02:35.630 NotebookApp] 404 GET /cgi/webcgi (37.49.231.100) 1.40ms referer=None
+[I 23:01:49.902 NotebookApp] 302 GET / (123.98.190.106) 0.46ms
+[I 23:01:50.049 NotebookApp] 302 GET /tree? (123.98.190.106) 0.59ms
+[W 23:01:50.355 NotebookApp] 404 GET /index.action (123.98.190.106) 1.46ms referer=None
+[W 23:55:49.578 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 00:30:18.018 NotebookApp] 302 GET / (85.89.174.197) 0.96ms
+[W 02:07:36.330 NotebookApp] 404 GET http://t5.proxy-checks.com/favicon.ico (93.80.161.246) 1.43ms referer=None
+[W 02:07:36.678 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 02:07:36.679 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (93.80.161.246) 2.04ms referer=None
+[W 02:07:37.025 NotebookApp] 404 GET http://158.58.168.237/favicon.ico (93.80.161.246) 1.66ms referer=None
+[W 02:09:33.059 NotebookApp] 404 GET http://t10.proxy-checks.com/favicon.ico (93.80.161.246) 1.49ms referer=None
+[W 02:09:33.411 NotebookApp] 403 POST http://t10.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 02:09:33.413 NotebookApp] 403 POST http://t10.proxy-checks.com/favicon.ico (93.80.161.246) 2.00ms referer=None
+[W 02:09:36.209 NotebookApp] 404 GET http://195.123.237.86/favicon.ico (93.80.161.246) 1.47ms referer=None
+[W 03:56:45.987 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 04:57:15.731 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 07:28:17.126 NotebookApp] 404 GET http://t18.proxy-checks.com/favicon.ico (93.80.161.246) 1.46ms referer=None
+[W 07:28:17.484 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 07:28:17.485 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (93.80.161.246) 1.99ms referer=None
+[W 07:28:17.834 NotebookApp] 404 GET http://158.58.168.237/favicon.ico (93.80.161.246) 1.43ms referer=None
+[W 07:28:47.556 NotebookApp] 404 GET http://t18.proxy-checks.com/favicon.ico (93.80.161.246) 1.51ms referer=None
+[W 07:28:47.917 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 07:28:47.918 NotebookApp] 403 POST http://t18.proxy-checks.com/favicon.ico (93.80.161.246) 2.09ms referer=None
+[W 07:28:48.271 NotebookApp] 404 GET http://205.185.113.134/favicon.ico (93.80.161.246) 2.08ms referer=None
+[I 07:40:34.876 NotebookApp] 302 GET / (196.52.43.130) 0.68ms
+[I 08:53:41.132 NotebookApp] 302 GET / (95.208.44.13) 0.54ms
+[W 09:01:44.267 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 10:39:30.276 NotebookApp] 302 GET / (118.92.96.237) 0.48ms
+[I 10:39:30.316 NotebookApp] 302 GET /tree? (118.92.96.237) 0.59ms
+[W 10:39:32.930 NotebookApp] 401 POST /login?next=%2Ftree%3F (118.92.96.237) 2.25ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[W 10:39:35.041 NotebookApp] 401 POST /login?next=%2Ftree%3F (118.92.96.237) 1.61ms referer=http://52.64.143.35:8888/login?next=%2Ftree%3F
+[I 10:41:52.934 NotebookApp] 302 POST /login?next=%2Ftree%3F (118.92.96.237) 2.56ms
+[I 12:39:22.874 NotebookApp] 302 GET / (139.162.83.10) 0.53ms
+[W 13:09:10.899 NotebookApp] 404 GET http://t20.proxy-checks.com/favicon.ico (93.80.161.246) 1.46ms referer=None
+[W 13:09:11.248 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 13:09:11.250 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (93.80.161.246) 2.64ms referer=None
+[W 13:09:12.043 NotebookApp] 404 GET http://205.204.73.8/favicon.ico (93.80.161.246) 1.54ms referer=None
+[W 13:09:59.811 NotebookApp] 404 GET http://t7.proxy-checks.com/favicon.ico (93.80.161.246) 1.46ms referer=None
+[W 13:10:00.162 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 13:10:00.163 NotebookApp] 403 POST http://t7.proxy-checks.com/favicon.ico (93.80.161.246) 1.92ms referer=None
+[W 13:10:03.602 NotebookApp] 404 GET http://178.209.51.169/favicon.ico (93.80.161.246) 1.47ms referer=None
+[W 13:28:17.870 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.40ms referer=None
+[W 15:05:10.885 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[I 15:23:50.080 NotebookApp] 302 GET / (179.183.147.46) 0.54ms
+[I 17:17:22.816 NotebookApp] 302 GET / (198.20.70.114) 0.48ms
+[I 17:17:24.040 NotebookApp] 302 GET /tree (198.20.70.114) 0.68ms
+[W 17:26:02.829 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 19:20:52.113 NotebookApp] 404 GET http://t5.proxy-checks.com/favicon.ico (93.80.161.246) 1.45ms referer=None
+[W 19:20:52.469 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 19:20:52.470 NotebookApp] 403 POST http://t5.proxy-checks.com/favicon.ico (93.80.161.246) 1.88ms referer=None
+[W 19:20:53.774 NotebookApp] 404 GET http://178.209.51.169/favicon.ico (93.80.161.246) 1.42ms referer=None
+[I 19:21:45.887 NotebookApp] Malformed HTTP message from 93.80.161.246: Malformed HTTP request line
+[W 19:21:47.220 NotebookApp] 404 GET http://37.235.56.23/favicon.ico (93.80.161.246) 1.97ms referer=None
+[W 00:27:19.259 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[W 01:14:26.992 NotebookApp] 404 GET http://t19.proxy-checks.com/favicon.ico (93.80.161.246) 1.50ms referer=None
+[W 01:14:27.345 NotebookApp] 403 POST http://t19.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 01:14:27.346 NotebookApp] 403 POST http://t19.proxy-checks.com/favicon.ico (93.80.161.246) 1.92ms referer=None
+[W 01:14:27.701 NotebookApp] 404 GET http://158.58.168.237/favicon.ico (93.80.161.246) 1.52ms referer=None
+[W 01:15:09.839 NotebookApp] 404 GET http://t20.proxy-checks.com/favicon.ico (93.80.161.246) 1.43ms referer=None
+[W 01:15:10.200 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (93.80.161.246): '_xsrf' argument missing from POST
+[W 01:15:10.202 NotebookApp] 403 POST http://t20.proxy-checks.com/favicon.ico (93.80.161.246) 1.93ms referer=None
+[W 01:15:10.606 NotebookApp] 404 GET http://37.235.55.20/favicon.ico (93.80.161.246) 1.42ms referer=None
+[W 02:30:01.815 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[W 07:08:25.851 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 14:59:51.394 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 19:17:06.473 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 19:51:53.360 NotebookApp] 302 GET / (190.92.57.34) 0.45ms
+[W 20:59:44.130 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 00:31:34.243 NotebookApp] 302 GET / (177.11.142.130) 0.43ms
+[I 01:54:06.000 NotebookApp] 302 GET / (118.187.4.37) 0.48ms
+[I 03:50:50.175 NotebookApp] 302 GET / (177.75.219.136) 0.54ms
+[I 04:03:09.668 NotebookApp] 302 GET / (54.36.110.5) 0.55ms
+[I 04:03:10.268 NotebookApp] 302 GET /tree (54.36.110.5) 0.72ms
+[I 04:03:11.621 NotebookApp] 302 GET /HNAP1/ (54.36.110.5) 0.56ms
+[W 04:03:12.320 NotebookApp] 404 GET /HNAP1 (54.36.110.5) 1.52ms referer=http://52.64.143.35:8888/
+[W 04:15:09.160 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.68ms referer=None
+[I 04:26:22.692 NotebookApp] 302 GET / (54.202.249.3) 0.62ms
+[W 07:58:02.914 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.64ms referer=None
+[W 08:39:23.423 NotebookApp] 404 GET /manager/html (123.249.35.46) 1.62ms referer=None
+[W 10:01:11.758 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.63ms referer=None
+[I 10:16:08.580 NotebookApp] 302 GET / (82.102.166.150) 0.56ms
+[W 11:23:38.508 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.53ms referer=None
+[I 13:01:04.408 NotebookApp] 302 GET / (187.94.131.181) 0.55ms
+[I 13:12:56.003 NotebookApp] 302 GET / (42.56.90.50) 0.54ms
+[I 13:40:47.543 NotebookApp] 302 GET / (196.52.43.93) 0.57ms
+[W 16:50:38.308 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.84ms referer=None
+[I 20:55:46.635 NotebookApp] 302 GET / (196.52.43.52) 0.70ms
+[W 21:44:50.082 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.62ms referer=None
+[W 01:46:33.943 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.30ms referer=None
+[W 02:27:46.793 NotebookApp] 404 GET /manager/html (123.249.35.46) 1.75ms referer=None
+[I 02:50:34.745 NotebookApp] 302 GET / (24.225.155.32) 0.60ms
+[W 06:22:33.469 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.67ms referer=None
+[I 07:10:39.262 NotebookApp] 302 GET / (85.166.89.120) 0.52ms
+[W 11:36:16.846 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.77ms referer=None
+[I 14:30:39.807 NotebookApp] 302 GET / (110.20.51.36) 0.55ms
+[W 15:24:12.639 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.65ms referer=None
+[W 18:40:27.199 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.64ms referer=None
+[W 23:22:37.736 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.24ms referer=None
+[I 01:03:46.233 NotebookApp] 302 GET / (69.164.192.139) 0.63ms
+[W 04:09:39.210 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.67ms referer=None
+[I 05:46:33.104 NotebookApp] 302 GET / (182.19.219.15) 0.63ms
+[W 07:39:17.739 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.64ms referer=None
+[I 08:51:09.180 NotebookApp] 302 GET / (159.89.99.216) 0.59ms
+[W 12:46:22.059 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.69ms referer=None
+[W 12:59:00.727 NotebookApp] 404 GET http://httpheader.net/ (89.248.172.90) 1.66ms referer=None
+[I 13:08:20.016 NotebookApp] 302 GET / (139.162.83.10) 0.58ms
+[I 14:11:10.580 NotebookApp] 302 GET / (46.101.213.187) 0.54ms
+[W 15:32:48.097 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.70ms referer=None
+[I 18:45:00.797 NotebookApp] 302 GET / (141.212.122.128) 0.54ms
+[I 18:45:01.055 NotebookApp] 302 GET /tree? (141.212.122.128) 0.73ms
+[W 22:12:44.614 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.64ms referer=None
+[W 01:59:52.011 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.70ms referer=None
+[I 07:17:44.329 NotebookApp] 302 GET / (5.53.242.66) 0.65ms
+[I 07:51:38.271 NotebookApp] 302 GET / (109.239.81.130) 0.56ms
+[W 08:17:59.217 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.71ms referer=None
+[W 08:46:38.532 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.70ms referer=None
+[I 10:09:54.355 NotebookApp] 302 GET / (118.92.96.237) 1.03ms
+[I 10:12:39.476 NotebookApp] 302 GET / (118.92.96.237) 0.60ms
+[I 10:12:46.233 NotebookApp] Adapting to protocol v5.1 for kernel 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 10:13:16.256 NotebookApp] Starting buffering for 9bd1044c-88ec-4672-a870-e66cbe9af167:30aad207519646159396d8a2a67a540b
+[W 10:13:23.454 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 10:13:24.054 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 10:25:46.698 NotebookApp] 302 GET / (127.0.0.1) 0.77ms
+[I 10:25:46.737 NotebookApp] 302 GET /tree? (127.0.0.1) 0.91ms
+[W 10:25:46.900 NotebookApp] Forbidden
+[W 10:25:46.900 NotebookApp] 403 POST /api/security/csp-report (127.0.0.1) 1.32ms referer=None
+[I 10:26:08.480 NotebookApp] 302 GET / (127.0.0.1) 0.72ms
+[I 10:26:08.518 NotebookApp] 302 GET /tree? (127.0.0.1) 1.54ms
+[W 10:26:08.635 NotebookApp] Forbidden
+[W 10:26:08.636 NotebookApp] 403 POST /api/security/csp-report (127.0.0.1) 1.20ms referer=None
+[I 10:27:31.131 NotebookApp] 302 GET / (127.0.0.1) 0.57ms
+[I 10:27:31.172 NotebookApp] 302 GET /tree? (127.0.0.1) 0.83ms
+[W 10:27:31.337 NotebookApp] Forbidden
+[W 10:27:31.337 NotebookApp] 403 POST /api/security/csp-report (127.0.0.1) 1.31ms referer=None
+[I 10:34:29.684 NotebookApp] 302 GET / (127.0.0.1) 0.81ms
+[I 10:34:29.724 NotebookApp] 302 GET /tree? (127.0.0.1) 0.99ms
+[W 10:34:29.837 NotebookApp] Forbidden
+[W 10:34:29.838 NotebookApp] 403 POST /api/security/csp-report (127.0.0.1) 1.29ms referer=None
+[I 10:54:18.663 NotebookApp] 302 GET / (127.0.0.1) 0.55ms
+[I 10:54:19.046 NotebookApp] 302 GET /tree? (127.0.0.1) 0.88ms
+[I 11:04:40.638 NotebookApp] Adapting to protocol v5.1 for kernel c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 11:06:40.982 NotebookApp] Saving file at /练习.ipynb
+[I 11:08:40.606 NotebookApp] Saving file at /练习.ipynb
+[I 11:09:27.231 NotebookApp] 302 GET / (127.0.0.1) 0.92ms
+[I 11:10:40.594 NotebookApp] Saving file at /练习.ipynb
+[I 11:12:40.982 NotebookApp] Saving file at /练习.ipynb
+[I 11:16:26.192 NotebookApp] 302 GET / (127.0.0.1) 0.81ms
+[W 11:18:52.774 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:18:53.375 NotebookApp] Adapting to protocol v5.1 for kernel 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 11:19:00.615 NotebookApp] Adapting to protocol v5.1 for kernel e782f3ab-f008-4dfb-a253-eefd1f88d67b
+[I 11:23:34.425 NotebookApp] 302 GET / (127.0.0.1) 0.64ms
+[I 11:29:27.230 NotebookApp] 302 GET / (127.0.0.1) 0.77ms
+[C 11:55:38.472 NotebookApp] received signal 15, stopping
+[I 11:55:38.488 NotebookApp] Shutting down 4 kernels
+[I 11:55:38.491 NotebookApp] Kernel shutdown: 0bec3ef4-fa7b-436a-8287-f34b4aa8534d
+[I 11:55:38.491 NotebookApp] Kernel shutdown: e782f3ab-f008-4dfb-a253-eefd1f88d67b
+[I 11:55:38.492 NotebookApp] Kernel shutdown: 9bd1044c-88ec-4672-a870-e66cbe9af167
+[I 11:55:38.496 NotebookApp] Kernel shutdown: c60b6530-c58e-4b94-8eab-b7344b7eb8c2
+[I 11:52:22.605 NotebookApp] Serving notebooks from local directory: /home/todd
+[I 11:52:22.605 NotebookApp] 0 active kernels
+[I 11:52:22.605 NotebookApp] The Jupyter Notebook is running at:
+[I 11:52:22.605 NotebookApp] http://ip-172-31-0-228:80/
+[I 11:52:22.605 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:52:22.605 NotebookApp] No web browser found: could not locate runnable browser.
+[I 11:52:43.616 NotebookApp] 302 GET / (118.92.96.237) 0.57ms
+[I 11:52:43.654 NotebookApp] 302 GET /tree? (118.92.96.237) 0.64ms
+[I 12:04:13.947 NotebookApp] Serving notebooks from local directory: /home/todd
+[I 12:04:13.947 NotebookApp] 0 active kernels
+[I 12:04:13.947 NotebookApp] The Jupyter Notebook is running at:
+[I 12:04:13.947 NotebookApp] http://ip-172-31-0-228:80/
+[I 12:04:13.947 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:04:13.948 NotebookApp] No web browser found: could not locate runnable browser.
+[W 12:10:34.325 NotebookApp] 401 POST /login?next=%2Ftree%3F (118.92.96.237) 36.77ms referer=http://13.210.183.0/login?next=%2Ftree%3F
+[W 12:10:39.733 NotebookApp] 401 POST /login?next=%2Ftree%3F (118.92.96.237) 1.52ms referer=http://13.210.183.0/login?next=%2Ftree%3F
+[W 12:12:05.587 NotebookApp] 403 POST /api/shutdown (127.0.0.1): '_xsrf' argument missing from POST
+[W 12:12:05.598 NotebookApp] 403 POST /api/shutdown (127.0.0.1) 10.76ms referer=None

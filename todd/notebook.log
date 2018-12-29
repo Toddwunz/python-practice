@@ -1,0 +1,553 @@
+[I 12:15:05.534 NotebookApp] Serving notebooks from local directory: /home/todd
+[I 12:15:05.534 NotebookApp] 0 active kernels
+[I 12:15:05.534 NotebookApp] The Jupyter Notebook is running at:
+[I 12:15:05.534 NotebookApp] http://ip-172-31-0-228:8888/
+[I 12:15:05.534 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:33:35.262 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 8.65ms referer=None
+[W 18:11:39.185 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.40ms referer=None
+[I 18:40:10.603 NotebookApp] 302 GET / (107.170.14.223) 0.50ms
+[I 19:10:11.299 NotebookApp] 302 GET / (104.236.39.10) 0.45ms
+[W 20:28:13.520 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 01:40:26.138 NotebookApp] 302 GET / (37.247.211.2) 0.59ms
+[W 02:57:04.966 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.40ms referer=None
+[I 04:27:41.623 NotebookApp] 302 GET / (196.52.43.125) 0.48ms
+[W 04:28:14.360 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 09:48:12.596 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.53ms referer=None
+[I 10:12:26.762 NotebookApp] 302 GET / (80.123.68.174) 0.49ms
+[I 11:14:57.830 NotebookApp] 302 GET / (118.92.96.237) 0.46ms
+[I 11:46:44.200 NotebookApp] Kernel started: 79ba8d4d-9e7d-4ad1-98e3-744b9b110230
+[I 11:46:44.715 NotebookApp] Adapting to protocol v5.1 for kernel 79ba8d4d-9e7d-4ad1-98e3-744b9b110230
+[W 11:47:06.482 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:47:06.989 NotebookApp] Kernel started: 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 11:47:07.485 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 11:49:07.032 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 11:49:07.032 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:51:07.035 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 11:51:07.036 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:53:07.031 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 11:53:07.032 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:55:07.035 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 11:55:07.036 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:57:07.031 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 11:57:07.032 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:59:07.043 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 11:59:07.044 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:01:07.039 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:01:07.040 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:03:07.039 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:03:07.040 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:05:07.040 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:05:07.040 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:07:07.040 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:07:07.040 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:09:07.040 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:09:07.040 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:11:07.044 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:11:07.044 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:13:07.044 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:13:07.044 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:15:07.044 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:15:07.044 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:17:07.040 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:17:07.040 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:19:07.044 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:19:07.044 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:21:07.048 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:21:07.048 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:23:07.044 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:23:07.045 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:25:07.044 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:25:07.045 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:29:07.044 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:29:07.045 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:33:07.048 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:33:07.049 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:35:07.048 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:35:07.049 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 12:39:29.732 NotebookApp] Saving file at /hello.ipynb
+[I 12:39:51.280 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 12:39:51.281 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[W 15:06:37.487 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 15:06:42.491 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:935fdbbe357543e5a679b317413226d2
+[W 15:06:44.717 NotebookApp] WebSocket ping timeout after 119967 ms.
+[I 15:06:49.719 NotebookApp] Starting buffering for 79ba8d4d-9e7d-4ad1-98e3-744b9b110230:c6618499d0a7490583e55efa40c7336e
+[W 15:23:48.938 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.61ms referer=None
+[I 17:07:17.877 NotebookApp] 302 GET / (139.162.83.10) 0.54ms
+[W 17:08:55.632 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 21:33:59.670 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 21:48:16.199 NotebookApp] 302 GET / (196.52.43.89) 0.59ms
+[W 02:51:18.374 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.40ms referer=None
+[W 07:56:33.796 NotebookApp] 404 GET http://104.27.99.47/ (80.211.101.235) 1.39ms referer=None
+[I 09:17:44.607 NotebookApp] Adapting to protocol v5.1 for kernel 79ba8d4d-9e7d-4ad1-98e3-744b9b110230
+[I 09:17:44.607 NotebookApp] Restoring connection for 79ba8d4d-9e7d-4ad1-98e3-744b9b110230:c6618499d0a7490583e55efa40c7336e
+[I 09:17:44.687 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 09:17:44.688 NotebookApp] Restoring connection for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:935fdbbe357543e5a679b317413226d2
+[I 09:18:52.749 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 09:18:52.749 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 09:20:52.709 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 09:20:52.709 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 09:21:07.205 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 09:21:07.205 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 09:21:09.937 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:935fdbbe357543e5a679b317413226d2
+[I 09:21:16.318 NotebookApp] Kernel started: c5e51fe0-56c4-4505-854e-d02c6c372f38
+[I 09:21:16.912 NotebookApp] Adapting to protocol v5.1 for kernel c5e51fe0-56c4-4505-854e-d02c6c372f38
+[I 09:21:24.683 NotebookApp] Starting buffering for c5e51fe0-56c4-4505-854e-d02c6c372f38:173dbf64057441afbf811507d576b5d5
+[I 09:21:33.589 NotebookApp] Creating new notebook in 
+[I 09:21:34.520 NotebookApp] Kernel started: de0edd8d-4ea5-4cf1-9aac-4cc302730f05
+[I 09:21:34.998 NotebookApp] Adapting to protocol v5.1 for kernel de0edd8d-4ea5-4cf1-9aac-4cc302730f05
+[I 09:23:35.227 NotebookApp] Saving file at /decorator.ipynb
+[W 09:25:16.959 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.60ms referer=None
+[I 10:15:34.572 NotebookApp] Saving file at /decorator.ipynb
+[I 10:17:34.572 NotebookApp] Saving file at /decorator.ipynb
+[I 10:19:34.568 NotebookApp] Saving file at /decorator.ipynb
+[I 10:21:34.568 NotebookApp] Saving file at /decorator.ipynb
+[I 10:23:34.568 NotebookApp] Saving file at /decorator.ipynb
+[I 10:27:34.572 NotebookApp] Saving file at /decorator.ipynb
+[I 10:33:34.616 NotebookApp] Saving file at /decorator.ipynb
+[I 10:35:34.572 NotebookApp] Saving file at /decorator.ipynb
+[I 10:39:34.576 NotebookApp] Saving file at /decorator.ipynb
+[I 10:41:34.573 NotebookApp] Saving file at /decorator.ipynb
+[I 10:43:34.577 NotebookApp] Saving file at /decorator.ipynb
+[I 10:45:34.573 NotebookApp] Saving file at /decorator.ipynb
+[I 10:47:34.573 NotebookApp] Saving file at /decorator.ipynb
+[I 10:49:34.577 NotebookApp] Saving file at /decorator.ipynb
+[I 10:51:34.581 NotebookApp] Saving file at /decorator.ipynb
+[I 10:53:34.577 NotebookApp] Saving file at /decorator.ipynb
+[I 10:55:34.577 NotebookApp] Saving file at /decorator.ipynb
+[I 10:57:34.576 NotebookApp] Saving file at /decorator.ipynb
+[I 10:59:34.576 NotebookApp] Saving file at /decorator.ipynb
+[I 11:19:35.273 NotebookApp] Saving file at /decorator.ipynb
+[I 11:29:34.617 NotebookApp] Saving file at /decorator.ipynb
+[I 11:31:35.245 NotebookApp] Saving file at /decorator.ipynb
+[I 11:43:34.624 NotebookApp] Saving file at /decorator.ipynb
+[I 11:45:34.588 NotebookApp] Saving file at /decorator.ipynb
+[I 11:47:34.585 NotebookApp] Saving file at /decorator.ipynb
+[W 12:07:05.715 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 12:36:03.534 NotebookApp] Starting buffering for 79ba8d4d-9e7d-4ad1-98e3-744b9b110230:c6618499d0a7490583e55efa40c7336e
+[I 12:36:15.651 NotebookApp] Starting buffering for de0edd8d-4ea5-4cf1-9aac-4cc302730f05:e00e906376f048dc8d98d1e1bec96ebc
+[I 15:00:01.259 NotebookApp] 302 GET / (118.92.96.237) 0.49ms
+[I 16:11:41.367 NotebookApp] 302 GET / (91.225.110.111) 0.48ms
+[I 16:56:28.927 NotebookApp] 302 GET / (113.11.154.162) 0.51ms
+[W 17:48:29.205 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 18:30:19.013 NotebookApp] 302 GET / (91.106.140.93) 0.47ms
+[W 22:23:09.622 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 02:56:27.068 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 06:21:31.240 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.42ms referer=None
+[I 09:28:44.133 NotebookApp] 302 GET / (139.162.83.10) 0.52ms
+[W 10:10:32.442 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 10:57:15.498 NotebookApp] 302 GET / (121.74.166.110) 0.47ms
+[I 10:57:41.132 NotebookApp] Adapting to protocol v5.1 for kernel de0edd8d-4ea5-4cf1-9aac-4cc302730f05
+[I 11:21:41.038 NotebookApp] Saving file at /decorator.ipynb
+[I 11:23:40.994 NotebookApp] Saving file at /decorator.ipynb
+[I 11:43:41.044 NotebookApp] Saving file at /decorator.ipynb
+[I 11:45:41.003 NotebookApp] Saving file at /decorator.ipynb
+[I 11:47:41.007 NotebookApp] Saving file at /decorator.ipynb
+[I 11:49:41.011 NotebookApp] Saving file at /decorator.ipynb
+[I 11:51:41.012 NotebookApp] Saving file at /decorator.ipynb
+[I 12:07:41.038 NotebookApp] Saving file at /decorator.ipynb
+[I 12:09:41.007 NotebookApp] Saving file at /decorator.ipynb
+[I 12:15:41.048 NotebookApp] Saving file at /decorator.ipynb
+[I 12:17:41.012 NotebookApp] Saving file at /decorator.ipynb
+[I 12:56:11.581 NotebookApp] Saving file at /decorator.ipynb
+[I 12:56:13.925 NotebookApp] Starting buffering for de0edd8d-4ea5-4cf1-9aac-4cc302730f05:a4006d6d906f4cb98288e036fafe4cc7
+[W 13:04:20.683 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 15:23:34.296 NotebookApp] 302 GET / (46.210.105.45) 0.54ms
+[W 19:56:05.880 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 22:18:32.921 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[I 03:11:41.420 NotebookApp] 302 GET / (196.52.43.90) 0.51ms
+[I 04:00:29.962 NotebookApp] 302 GET / (88.70.219.27) 0.47ms
+[W 04:20:50.253 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 04:21:55.341 NotebookApp] 302 GET / (188.67.36.48) 0.88ms
+[I 06:23:15.906 NotebookApp] 302 GET / (34.222.58.109) 0.54ms
+[I 08:10:26.292 NotebookApp] 302 GET / (63.136.114.255) 0.53ms
+[I 09:02:36.640 NotebookApp] 302 GET / (58.182.197.73) 0.56ms
+[W 09:04:03.964 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 11:32:22.029 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 18:09:07.326 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.40ms referer=None
+[W 18:37:06.646 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 23:09:38.451 NotebookApp] 302 GET / (185.36.54.52) 0.50ms
+[W 04:06:22.155 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 07:09:38.467 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 08:50:38.956 NotebookApp] 302 GET / (196.52.43.119) 0.61ms
+[W 12:14:30.011 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 14:23:43.124 NotebookApp] 302 GET / (139.162.83.10) 0.51ms
+[W 16:11:29.815 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 19:55:22.513 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 22:02:47.352 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[I 22:49:28.577 NotebookApp] 302 GET / (156.54.164.182) 0.51ms
+[W 04:50:02.431 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.40ms referer=None
+[I 07:28:51.402 NotebookApp] 302 GET / (178.189.174.145) 0.46ms
+[I 08:42:34.876 NotebookApp] 302 GET / (109.71.36.26) 0.47ms
+[W 09:14:58.380 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.90ms referer=None
+[W 13:22:45.783 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 14:47:09.532 NotebookApp] 302 GET / (46.23.58.76) 0.56ms
+[I 16:28:15.314 NotebookApp] 302 GET / (78.134.102.89) 0.49ms
+[W 17:39:30.438 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 20:34:53.566 NotebookApp] 302 GET / (94.130.89.102) 0.59ms
+[W 22:21:12.596 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 22:50:27.005 NotebookApp] 302 GET / (192.143.91.135) 0.47ms
+[I 23:00:16.135 NotebookApp] 302 GET / (141.212.122.32) 0.48ms
+[I 23:00:16.398 NotebookApp] 302 GET /tree? (141.212.122.32) 0.75ms
+[I 01:24:44.530 NotebookApp] 302 GET / (46.214.121.100) 0.53ms
+[I 01:38:39.282 NotebookApp] 302 GET / (80.82.77.33) 0.49ms
+[I 01:38:39.939 NotebookApp] 302 GET /tree (80.82.77.33) 0.57ms
+[W 02:02:51.259 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 02:35:01.334 NotebookApp] 302 GET / (213.45.194.57) 0.52ms
+[I 05:13:29.168 NotebookApp] 302 GET / (36.89.106.19) 0.68ms
+[W 08:20:16.380 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[W 10:15:06.409 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 12:26:23.107 NotebookApp] 302 GET / (121.75.103.111) 0.47ms
+[I 12:26:35.580 NotebookApp] 302 GET / (121.75.103.111) 0.49ms
+[I 12:26:35.620 NotebookApp] 302 GET /tree? (121.75.103.111) 0.65ms
+[I 12:26:39.940 NotebookApp] 302 POST /login?next=%2Ftree%3F (121.75.103.111) 1.21ms
+[I 12:26:45.871 NotebookApp] 302 GET / (121.75.103.111) 0.52ms
+[I 12:26:45.907 NotebookApp] 302 GET /tree? (121.75.103.111) 0.66ms
+[W 12:26:49.408 NotebookApp] 401 POST /login?next=%2Ftree%3F (121.75.103.111) 1.60ms referer=http://13.210.183.0:8888/login?next=%2Ftree%3F
+[I 12:26:53.984 NotebookApp] 302 POST /login?next=%2Ftree%3F (121.75.103.111) 1.10ms
+[I 12:27:04.435 NotebookApp] 302 GET / (121.75.103.111) 0.50ms
+[I 12:28:20.920 NotebookApp] 302 GET / (106.38.0.86) 0.49ms
+[I 12:28:21.256 NotebookApp] 302 GET /tree? (106.38.0.86) 0.63ms
+[I 12:28:42.745 NotebookApp] 302 POST /login?next=%2Ftree%3F (106.38.0.86) 1.15ms
+[I 12:29:19.948 NotebookApp] Uploading file to /AN31-Virtualization II-Advanced PowerVM and Performance.tar.gz
+[I 12:29:41.960 NotebookApp] Uploading file to /AN30-Virtualization.zip
+[I 12:29:44.673 NotebookApp] Saving file at /AN30-Virtualization.zip
+[I 12:30:21.651 NotebookApp] Saving file at /AN31-Virtualization II-Advanced PowerVM and Performance.tar.gz
+[I 12:30:50.401 NotebookApp] Uploading file to /AN15-AIX III-Advanced Administration and Problem Determination.tar.gz
+[I 12:31:19.044 NotebookApp] Saving file at /AN15-AIX III-Advanced Administration and Problem Determination.tar.gz
+[W 12:31:59.599 NotebookApp] 400 GET /api/contents/AN30-Virtualization.zip?type=file&format=text&_=1534163519829 (121.75.103.111): /home/todd/AN30-Virtualization.zip is not UTF-8 encoded
+[W 12:31:59.599 NotebookApp] /home/todd/AN30-Virtualization.zip is not UTF-8 encoded
+[W 12:31:59.600 NotebookApp] 400 GET /api/contents/AN30-Virtualization.zip?type=file&format=text&_=1534163519829 (121.75.103.111) 4.37ms referer=http://13.210.183.0:8888/edit/AN30-Virtualization.zip
+[W 15:17:04.857 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 18:46:44.117 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[I 22:20:30.244 NotebookApp] 302 GET / (168.1.128.77) 0.51ms
+[W 01:44:27.305 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[I 01:44:39.697 NotebookApp] 302 GET / (189.149.62.122) 0.52ms
+[I 04:23:37.022 NotebookApp] 302 GET / (139.195.19.196) 0.63ms
+[W 07:45:31.903 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.53ms referer=None
+[I 07:49:45.771 NotebookApp] 302 GET / (198.108.66.32) 0.49ms
+[I 07:49:46.059 NotebookApp] 302 GET /tree? (198.108.66.32) 0.66ms
+[W 07:56:03.079 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 12:48:45.983 NotebookApp] 302 GET / (79.192.168.141) 0.47ms
+[W 15:13:17.636 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[I 15:38:11.523 NotebookApp] 302 GET / (138.197.68.219) 0.45ms
+[I 16:43:29.380 NotebookApp] 302 GET / (180.121.129.145) 0.53ms
+[I 16:43:29.708 NotebookApp] 302 GET /tree? (180.121.129.145) 0.75ms
+[W 16:59:23.257 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 00:46:41.749 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 02:23:24.646 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 04:33:52.585 NotebookApp] 404 GET /manager/html (211.54.55.7) 1.55ms referer=None
+[W 05:47:44.604 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 06:52:42.876 NotebookApp] 302 GET / (198.108.66.192) 0.57ms
+[I 06:52:43.151 NotebookApp] 302 GET /tree? (198.108.66.192) 0.67ms
+[I 09:50:54.950 NotebookApp] 302 GET / (118.187.4.206) 0.47ms
+[I 10:39:42.213 NotebookApp] 302 GET / (121.75.103.111) 0.97ms
+[W 10:41:40.834 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 10:41:41.703 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 10:41:54.051 NotebookApp] Adapting to protocol v5.1 for kernel de0edd8d-4ea5-4cf1-9aac-4cc302730f05
+[I 10:43:54.026 NotebookApp] Saving file at /decorator.ipynb
+[I 10:45:53.985 NotebookApp] Saving file at /decorator.ipynb
+[I 10:47:53.990 NotebookApp] Saving file at /decorator.ipynb
+[I 10:49:53.990 NotebookApp] Saving file at /decorator.ipynb
+[I 10:51:53.989 NotebookApp] Saving file at /decorator.ipynb
+[I 10:53:54.022 NotebookApp] Saving file at /decorator.ipynb
+[I 10:55:53.986 NotebookApp] Saving file at /decorator.ipynb
+[I 10:57:53.986 NotebookApp] Saving file at /decorator.ipynb
+[I 10:59:54.002 NotebookApp] Saving file at /decorator.ipynb
+[I 11:01:53.994 NotebookApp] Saving file at /decorator.ipynb
+[I 11:07:54.066 NotebookApp] Saving file at /decorator.ipynb
+[I 11:09:53.998 NotebookApp] Saving file at /decorator.ipynb
+[I 11:11:53.994 NotebookApp] Saving file at /decorator.ipynb
+[I 11:13:54.037 NotebookApp] Saving file at /decorator.ipynb
+[I 11:15:53.990 NotebookApp] Saving file at /decorator.ipynb
+[W 11:18:11.086 NotebookApp] 404 GET /static/components/preact/preact.min.js.map (121.75.103.111) 1.59ms referer=None
+[W 11:18:11.106 NotebookApp] 404 GET /static/components/proptypes/index.js.map (121.75.103.111) 1.26ms referer=None
+[W 11:18:11.110 NotebookApp] 404 GET /static/components/preact-compat/preact-compat.min.js.map (121.75.103.111) 1.16ms referer=None
+[I 11:19:53.994 NotebookApp] Saving file at /decorator.ipynb
+[I 11:21:53.990 NotebookApp] Saving file at /decorator.ipynb
+[I 11:23:53.997 NotebookApp] Saving file at /decorator.ipynb
+[I 11:25:53.994 NotebookApp] Saving file at /decorator.ipynb
+[I 11:27:54.030 NotebookApp] Saving file at /decorator.ipynb
+[I 11:29:54.026 NotebookApp] Saving file at /decorator.ipynb
+[I 11:33:54.038 NotebookApp] Saving file at /decorator.ipynb
+[I 11:35:54.034 NotebookApp] Saving file at /decorator.ipynb
+[I 11:37:54.030 NotebookApp] Saving file at /decorator.ipynb
+[I 11:39:54.010 NotebookApp] Saving file at /decorator.ipynb
+[I 11:41:54.034 NotebookApp] Saving file at /decorator.ipynb
+[I 11:43:54.002 NotebookApp] Saving file at /decorator.ipynb
+[I 11:45:54.002 NotebookApp] Saving file at /decorator.ipynb
+[I 11:47:54.002 NotebookApp] Saving file at /decorator.ipynb
+[I 11:49:54.002 NotebookApp] Saving file at /decorator.ipynb
+[I 11:51:54.006 NotebookApp] Saving file at /decorator.ipynb
+[I 11:53:54.030 NotebookApp] Saving file at /decorator.ipynb
+[I 11:55:54.018 NotebookApp] Saving file at /decorator.ipynb
+[I 12:01:54.006 NotebookApp] Saving file at /decorator.ipynb
+[I 12:05:54.010 NotebookApp] Saving file at /decorator.ipynb
+[W 12:06:37.635 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 12:07:54.050 NotebookApp] Saving file at /decorator.ipynb
+[I 14:41:05.566 NotebookApp] 302 GET / (196.52.43.129) 0.82ms
+[W 15:39:11.705 NotebookApp] WebSocket ping timeout after 119964 ms.
+[I 15:39:16.707 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:74bb8cb3c1294a3c9fead961c4515066
+[W 15:39:24.054 NotebookApp] WebSocket ping timeout after 119969 ms.
+[I 15:39:29.056 NotebookApp] Starting buffering for de0edd8d-4ea5-4cf1-9aac-4cc302730f05:9f018659c9e849138f19c92e711704a2
+[W 16:13:26.736 NotebookApp] 404 GET /manager/html (211.54.55.7) 1.49ms referer=None
+[I 17:02:09.783 NotebookApp] 302 GET / (199.102.186.164) 0.55ms
+[W 18:18:15.875 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[I 18:33:24.376 NotebookApp] 302 GET / (14.248.167.241) 0.59ms
+[W 19:18:13.120 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 21:05:37.688 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 21:05:37.689 NotebookApp] Restoring connection for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:74bb8cb3c1294a3c9fead961c4515066
+[I 21:05:37.768 NotebookApp] Adapting to protocol v5.1 for kernel de0edd8d-4ea5-4cf1-9aac-4cc302730f05
+[I 21:05:37.768 NotebookApp] Restoring connection for de0edd8d-4ea5-4cf1-9aac-4cc302730f05:9f018659c9e849138f19c92e711704a2
+[W 00:40:23.854 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[W 03:11:20.519 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.41ms referer=None
+[I 07:15:00.245 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:74bb8cb3c1294a3c9fead961c4515066
+[I 07:15:00.249 NotebookApp] Starting buffering for de0edd8d-4ea5-4cf1-9aac-4cc302730f05:9f018659c9e849138f19c92e711704a2
+[I 07:20:50.708 NotebookApp] 302 GET / (139.162.83.10) 0.55ms
+[W 09:36:57.143 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.45ms referer=None
+[W 10:06:00.504 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 10:51:35.688 NotebookApp] 302 GET / (84.1.165.254) 0.96ms
+[I 11:20:50.190 NotebookApp] 302 GET / (121.75.103.111) 0.49ms
+[W 11:20:57.355 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:20:58.217 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 11:22:58.059 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 11:22:58.059 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:24:58.059 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 11:24:58.059 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 11:25:27.568 NotebookApp] 302 GET /tree (66.249.83.19) 0.63ms
+[I 11:25:27.634 NotebookApp] 302 GET /tree? (66.102.7.29) 0.63ms
+[W 14:27:28.218 NotebookApp] WebSocket ping timeout after 119962 ms.
+[I 14:27:33.221 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:0bd232b24bb44ed882df4b6b03c01d5d
+[I 14:43:03.020 NotebookApp] 302 GET / (31.204.151.228) 0.63ms
+[W 15:04:00.354 NotebookApp] 404 GET http://104.27.99.47/ (188.213.174.249) 1.42ms referer=None
+[W 15:09:42.988 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.49ms referer=None
+[I 16:08:56.052 NotebookApp] 302 GET / (198.108.66.192) 0.52ms
+[I 16:08:56.327 NotebookApp] 302 GET /tree? (198.108.66.192) 0.66ms
+[W 17:10:15.374 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.23ms referer=None
+[W 20:57:36.430 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.46ms referer=None
+[I 21:34:39.270 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 21:34:39.271 NotebookApp] Restoring connection for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:0bd232b24bb44ed882df4b6b03c01d5d
+[W 23:33:30.809 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 03:26:20.811 NotebookApp] 302 GET / (169.53.184.23) 0.47ms
+[W 04:23:09.419 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 05:16:39.273 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 05:16:44.274 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:0bd232b24bb44ed882df4b6b03c01d5d
+[W 06:03:04.703 NotebookApp] 404 GET http://104.27.99.47/ (188.213.174.249) 2.58ms referer=None
+[W 06:53:53.717 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.58ms referer=None
+[W 08:18:44.392 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.44ms referer=None
+[I 09:41:41.699 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 09:41:41.699 NotebookApp] Restoring connection for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:0bd232b24bb44ed882df4b6b03c01d5d
+[I 10:22:33.150 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 10:22:33.151 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 10:24:13.806 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 10:24:13.807 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 10:26:33.710 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 10:26:33.711 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 10:28:33.150 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 10:28:33.151 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 10:29:32.562 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 10:29:32.563 NotebookApp] Notebook week 5 excise.ipynb is not trusted
+[I 10:29:51.827 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 10:29:56.014 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:0bd232b24bb44ed882df4b6b03c01d5d
+[I 10:30:04.965 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 10:30:05.563 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:3b03279e0a8d41eba0fc66d45fa8efe3
+[I 10:30:07.910 NotebookApp] Creating new notebook in 
+[I 10:30:08.744 NotebookApp] Kernel started: 1d0ee296-5d2b-4ef2-85c1-27be3d08e910
+[I 10:30:09.331 NotebookApp] Adapting to protocol v5.1 for kernel 1d0ee296-5d2b-4ef2-85c1-27be3d08e910
+[I 10:31:10.405 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 10:32:08.787 NotebookApp] Saving file at /Week 6.ipynb
+[I 10:34:08.791 NotebookApp] Saving file at /Week 6.ipynb
+[I 11:39:31.975 NotebookApp] 302 GET / (196.52.43.103) 0.63ms
+[W 11:51:20.651 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.63ms referer=None
+[I 12:08:21.162 NotebookApp] 302 GET / (185.234.218.72) 0.47ms
+[I 12:08:21.832 NotebookApp] 302 GET /tree (185.234.218.72) 0.65ms
+[I 12:08:23.372 NotebookApp] 302 GET /HNAP1/ (185.234.218.72) 0.49ms
+[W 12:08:24.074 NotebookApp] 404 GET /HNAP1 (185.234.218.72) 1.40ms referer=http://13.210.183.0:8888/
+[I 12:56:48.348 NotebookApp] 302 GET / (86.126.60.177) 0.52ms
+[I 14:39:21.275 NotebookApp] Starting buffering for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:0764c4e5549744c89a6364079128b76b
+[I 14:39:21.903 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:afb47f4fedd24d418cb59d5f17a46052
+[W 19:21:56.470 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[W 19:40:59.067 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.98ms referer=None
+[I 21:42:10.526 NotebookApp] 302 GET /tree? (35.204.17.80) 0.60ms
+[W 23:40:22.155 NotebookApp] 403 POST /CGI/Execute (51.38.71.88): '_xsrf' argument missing from POST
+[W 23:40:22.157 NotebookApp] 403 POST /CGI/Execute (51.38.71.88) 2.00ms referer=None
+[W 01:02:34.806 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 02:34:39.013 NotebookApp] 302 GET / (198.108.67.16) 0.48ms
+[I 02:34:39.301 NotebookApp] 302 GET /tree? (198.108.67.16) 0.67ms
+[W 02:40:00.512 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[W 05:45:09.635 NotebookApp] 404 GET http://104.27.99.47/ (188.213.174.249) 1.48ms referer=None
+[W 06:55:01.149 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 07:03:07.034 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.43ms referer=None
+[I 07:52:39.569 NotebookApp] 302 GET / (213.191.117.125) 0.52ms
+[W 10:54:11.366 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.55ms referer=None
+[W 17:45:23.980 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 23:30:08.195 NotebookApp] 302 GET / (31.131.26.98) 0.50ms
+[W 23:36:01.814 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[I 00:36:05.497 NotebookApp] 302 GET / (139.162.83.10) 0.55ms
+[I 04:08:59.336 NotebookApp] 302 GET / (198.108.66.64) 0.48ms
+[I 04:08:59.585 NotebookApp] 302 GET /tree? (198.108.66.64) 0.65ms
+[W 05:23:52.718 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 05:43:50.905 NotebookApp] 404 GET http://104.27.99.47/ (188.213.174.249) 1.40ms referer=None
+[W 05:48:23.555 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.44ms referer=None
+[W 06:33:13.309 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 12:19:47.534 NotebookApp] 302 GET / (141.212.122.64) 0.47ms
+[I 12:19:47.824 NotebookApp] 302 GET /tree? (141.212.122.64) 0.66ms
+[W 13:56:49.863 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.43ms referer=None
+[I 16:09:08.952 NotebookApp] 302 GET / (71.6.146.186) 0.52ms
+[I 16:09:09.762 NotebookApp] 302 GET /tree (71.6.146.186) 0.63ms
+[I 17:00:34.322 NotebookApp] 302 GET / (5.26.112.78) 0.50ms
+[W 17:15:07.986 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.41ms referer=None
+[W 23:21:31.083 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.41ms referer=None
+[W 00:41:40.547 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 04:37:45.539 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.41ms referer=None
+[W 05:43:19.082 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.02ms referer=None
+[W 06:07:05.967 NotebookApp] 404 GET http://104.27.99.47/ (188.213.174.249) 1.42ms referer=None
+[W 11:42:43.997 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 7.52ms referer=None
+[W 13:15:17.824 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.48ms referer=None
+[W 15:59:09.946 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.44ms referer=None
+[I 19:53:36.512 NotebookApp] 302 GET / (196.52.43.112) 0.47ms
+[W 20:08:23.536 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[W 00:23:19.087 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.41ms referer=None
+[I 01:45:15.852 NotebookApp] 302 GET / (196.52.43.84) 0.65ms
+[I 03:18:22.720 NotebookApp] 302 GET / (39.109.213.142) 0.53ms
+[W 03:19:47.483 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.40ms referer=None
+[W 03:48:18.683 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.54ms referer=None
+[I 05:16:37.650 NotebookApp] 302 GET / (212.83.146.233) 0.51ms
+[W 05:57:42.923 NotebookApp] 404 GET http://104.27.99.47/ (188.213.174.249) 1.39ms referer=None
+[W 06:32:20.551 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 07:12:12.791 NotebookApp] 302 GET / (24.125.128.243) 0.47ms
+[W 11:38:47.661 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.58ms referer=None
+[W 14:42:05.658 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.42ms referer=None
+[I 15:21:17.254 NotebookApp] 302 GET / (87.254.190.41) 0.55ms
+[W 16:30:56.118 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[I 18:02:15.642 NotebookApp] 302 GET / (36.68.132.50) 0.55ms
+[I 20:17:27.749 NotebookApp] 302 GET / (89.248.174.3) 0.49ms
+[I 20:17:28.357 NotebookApp] 302 GET /tree? (89.248.174.3) 0.61ms
+[W 22:04:32.813 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.57ms referer=None
+[W 02:04:47.836 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.45ms referer=None
+[W 03:16:08.636 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 03:48:26.446 NotebookApp] 302 GET / (139.162.83.10) 0.51ms
+[W 05:51:49.631 NotebookApp] 404 GET http://104.27.99.47/ (188.213.174.249) 1.50ms referer=None
+[W 07:36:37.108 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 08:49:18.560 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.51ms referer=None
+[I 09:33:15.634 NotebookApp] 302 GET / (121.75.103.111) 0.46ms
+[I 09:43:06.577 NotebookApp] Adapting to protocol v5.1 for kernel 1d0ee296-5d2b-4ef2-85c1-27be3d08e910
+[I 09:43:12.944 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 09:49:06.887 NotebookApp] Saving file at /Week 6.ipynb
+[I 09:49:12.878 NotebookApp] Saving file at /week 5 excise.ipynb
+[I 09:51:12.875 NotebookApp] Saving file at /week 5 excise.ipynb
+[W 13:28:12.765 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.49ms referer=None
+[W 15:12:04.485 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 15:46:36.579 NotebookApp] WebSocket ping timeout after 119962 ms.
+[I 15:46:41.582 NotebookApp] Starting buffering for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[W 15:46:42.947 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 15:46:47.949 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:d9a00de8be9f4f12860df200e6f597e9
+[W 20:02:09.171 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.46ms referer=None
+[I 23:26:39.757 NotebookApp] Adapting to protocol v5.1 for kernel 1d0ee296-5d2b-4ef2-85c1-27be3d08e910
+[I 23:26:39.758 NotebookApp] Restoring connection for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[I 23:26:39.836 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 23:26:39.837 NotebookApp] Restoring connection for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:d9a00de8be9f4f12860df200e6f597e9
+[W 00:47:18.873 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[W 00:49:32.305 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.42ms referer=None
+[W 01:45:49.767 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.50ms referer=None
+[W 02:54:39.760 NotebookApp] WebSocket ping timeout after 119968 ms.
+[W 02:54:39.837 NotebookApp] WebSocket ping timeout after 119965 ms.
+[I 02:54:44.762 NotebookApp] Starting buffering for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[I 02:54:44.838 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:d9a00de8be9f4f12860df200e6f597e9
+[I 03:13:22.455 NotebookApp] Adapting to protocol v5.1 for kernel 1d0ee296-5d2b-4ef2-85c1-27be3d08e910
+[I 03:13:22.456 NotebookApp] Restoring connection for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[I 03:13:29.899 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 03:13:29.900 NotebookApp] Restoring connection for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:d9a00de8be9f4f12860df200e6f597e9
+[I 03:24:41.607 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:30:41.618 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:32:41.594 NotebookApp] Saving file at /Week 6.ipynb
+[W 03:33:18.435 NotebookApp] Replacing stale connection: 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[E 03:33:22.456 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(1d0ee296-5d2b-4ef2-85c1-27be3d08e910)>
+    Traceback (most recent call last):
+      File "/root/.pyenv/versions/3.5.5/envs/python3.5/lib/python3.5/site-packages/tornado/ioloop.py", line 1208, in _run
+        return self.callback()
+      File "/root/.pyenv/versions/3.5.5/envs/python3.5/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/root/.pyenv/versions/3.5.5/envs/python3.5/lib/python3.5/site-packages/tornado/websocket.py", line 318, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 03:33:23.437 NotebookApp] Starting buffering for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[I 03:33:23.438 NotebookApp] Adapting to protocol v5.1 for kernel 1d0ee296-5d2b-4ef2-85c1-27be3d08e910
+[I 03:33:23.438 NotebookApp] Restoring connection for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[I 03:34:42.045 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:36:41.594 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:38:25.846 NotebookApp] Kernel started: d63a218d-3bb9-4169-8887-9d4ca37264b0
+[I 03:38:26.345 NotebookApp] Adapting to protocol v5.1 for kernel d63a218d-3bb9-4169-8887-9d4ca37264b0
+[I 03:38:41.972 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:40:25.920 NotebookApp] Saving file at /练习.ipynb
+[I 03:40:41.584 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:42:41.615 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:44:26.280 NotebookApp] Saving file at /练习.ipynb
+[I 03:44:41.668 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:46:26.005 NotebookApp] Saving file at /练习.ipynb
+[I 03:46:41.618 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:54:41.637 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:56:41.586 NotebookApp] Saving file at /Week 6.ipynb
+[I 03:58:41.925 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:00:41.979 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:02:27.125 NotebookApp] Saving file at /练习.ipynb
+[I 04:02:41.595 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:04:26.037 NotebookApp] Saving file at /练习.ipynb
+[I 04:08:25.893 NotebookApp] Saving file at /练习.ipynb
+[I 04:08:41.932 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:10:25.941 NotebookApp] Saving file at /练习.ipynb
+[I 04:12:25.876 NotebookApp] Saving file at /练习.ipynb
+[I 04:14:26.024 NotebookApp] Saving file at /练习.ipynb
+[I 04:16:26.084 NotebookApp] Saving file at /练习.ipynb
+[I 04:18:26.015 NotebookApp] Saving file at /练习.ipynb
+[I 04:18:41.612 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:20:41.609 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:22:41.669 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:26:25.849 NotebookApp] Saving file at /练习.ipynb
+[I 04:28:25.985 NotebookApp] Saving file at /练习.ipynb
+[I 04:34:26.396 NotebookApp] Saving file at /练习.ipynb
+[I 04:34:41.598 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:36:41.608 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:38:41.613 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:40:41.668 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:42:41.755 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:44:42.345 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:48:41.712 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:50:41.648 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:52:25.990 NotebookApp] Saving file at /练习.ipynb
+[I 04:52:41.627 NotebookApp] Saving file at /Week 6.ipynb
+[I 04:58:26.115 NotebookApp] Saving file at /练习.ipynb
+[I 05:02:42.644 NotebookApp] Saving file at /Week 6.ipynb
+[I 05:04:41.622 NotebookApp] Saving file at /Week 6.ipynb
+[I 05:06:41.738 NotebookApp] Saving file at /Week 6.ipynb
+[I 05:08:41.870 NotebookApp] Saving file at /Week 6.ipynb
+[I 05:08:46.919 NotebookApp] Saving file at /Week 6.ipynb
+[W 05:10:53.439 NotebookApp] WebSocket ping timeout after 119968 ms.
+[W 05:10:56.347 NotebookApp] WebSocket ping timeout after 119956 ms.
+[I 05:10:58.441 NotebookApp] Starting buffering for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[W 05:10:59.901 NotebookApp] WebSocket ping timeout after 119949 ms.
+[I 05:11:01.348 NotebookApp] Starting buffering for d63a218d-3bb9-4169-8887-9d4ca37264b0:cefb3435e33447fa8da972440721725a
+[I 05:11:04.902 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:d9a00de8be9f4f12860df200e6f597e9
+[W 05:53:47.679 NotebookApp] 404 GET http://104.27.99.47/ (188.213.174.249) 1.63ms referer=None
+[W 05:56:49.071 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.45ms referer=None
+[W 08:45:03.124 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.47ms referer=None
+[I 09:20:17.953 NotebookApp] Adapting to protocol v5.1 for kernel d63a218d-3bb9-4169-8887-9d4ca37264b0
+[I 09:20:17.954 NotebookApp] Restoring connection for d63a218d-3bb9-4169-8887-9d4ca37264b0:cefb3435e33447fa8da972440721725a
+[I 09:20:18.034 NotebookApp] Adapting to protocol v5.1 for kernel 85f5186c-b7ac-427f-8862-3aa4a112c0ac
+[I 09:20:18.034 NotebookApp] Restoring connection for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:d9a00de8be9f4f12860df200e6f597e9
+[I 09:20:18.600 NotebookApp] Adapting to protocol v5.1 for kernel 1d0ee296-5d2b-4ef2-85c1-27be3d08e910
+[I 09:20:18.601 NotebookApp] Restoring connection for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[W 10:36:14.566 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.52ms referer=None
+[I 12:26:56.400 NotebookApp] Starting buffering for d63a218d-3bb9-4169-8887-9d4ca37264b0:cefb3435e33447fa8da972440721725a
+[I 12:26:56.404 NotebookApp] Starting buffering for 1d0ee296-5d2b-4ef2-85c1-27be3d08e910:af86f96c9dc24e0d9bc6424f57b79112
+[I 12:26:56.404 NotebookApp] Starting buffering for 85f5186c-b7ac-427f-8862-3aa4a112c0ac:d9a00de8be9f4f12860df200e6f597e9
+[I 15:11:45.168 NotebookApp] 302 GET / (139.162.83.10) 0.57ms
+[W 16:03:40.800 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.53ms referer=None
+[I 17:55:12.363 NotebookApp] 302 GET / (188.177.28.6) 0.54ms
+[W 18:51:30.537 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.44ms referer=None
+[W 22:40:10.458 NotebookApp] 404 GET /manager/html (202.43.154.162) 1.49ms referer=None
+[I 01:28:45.023 NotebookApp] 302 GET / (185.134.96.193) 0.54ms
+[W 01:44:45.976 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.47ms referer=None
+[I 02:34:00.741 NotebookApp] 302 GET / (209.17.96.210) 0.49ms
+[W 03:42:44.421 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.14ms referer=None
+[W 05:56:13.282 NotebookApp] 404 GET http://104.27.99.47/ (188.213.174.249) 1.38ms referer=None
+[I 06:24:08.195 NotebookApp] 302 GET / (34.218.49.128) 0.51ms

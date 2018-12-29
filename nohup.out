@@ -1,0 +1,391 @@
+[I 00:55:37.555 NotebookApp] Writing notebook server cookie secret to /run/user/0/jupyter/notebook_cookie_secret
+Traceback (most recent call last):
+  File "/root/.pyenv/versions/3.5.3/bin/jupyter-notebook", line 11, in <module>
+    sys.exit(main())
+  File "/root/.pyenv/versions/3.5.3/lib/python3.5/site-packages/jupyter_core/application.py", line 266, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/root/.pyenv/versions/3.5.3/lib/python3.5/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-7>", line 2, in initialize
+  File "/root/.pyenv/versions/3.5.3/lib/python3.5/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/root/.pyenv/versions/3.5.3/lib/python3.5/site-packages/notebook/notebookapp.py", line 1507, in initialize
+    self.init_webapp()
+  File "/root/.pyenv/versions/3.5.3/lib/python3.5/site-packages/notebook/notebookapp.py", line 1270, in init_webapp
+    self.jinja_environment_options
+  File "/root/.pyenv/versions/3.5.3/lib/python3.5/site-packages/notebook/notebookapp.py", line 157, in __init__
+    handlers = self.init_handlers(settings)
+  File "/root/.pyenv/versions/3.5.3/lib/python3.5/site-packages/notebook/notebookapp.py", line 301, in init_handlers
+    handlers.extend(load_handlers('notebook.edit.handlers'))
+  File "/root/.pyenv/versions/3.5.3/lib/python3.5/site-packages/notebook/notebookapp.py", line 137, in load_handlers
+    mod = __import__(name, fromlist=['default_handlers'])
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 669, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 758, in get_code
+  File "<frozen importlib._bootstrap_external>", line 827, in get_data
+KeyboardInterrupt
+[I 00:55:45.330 NotebookApp] Serving notebooks from local directory: /home/python3.5.3
+[I 00:55:45.330 NotebookApp] 0 active kernels
+[I 00:55:45.330 NotebookApp] The Jupyter Notebook is running at:
+[I 00:55:45.330 NotebookApp] http://192.168.56.101:8080/?token=be5c99a125990f43c52ac76e9d3ba15a316dc5e1fdd1db6e
+[I 00:55:45.331 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:55:45.331 NotebookApp] No web browser found: could not locate runnable browser.
+[C 00:55:45.331 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://192.168.56.101:8080/?token=be5c99a125990f43c52ac76e9d3ba15a316dc5e1fdd1db6e
+[I 00:59:10.794 NotebookApp] 302 GET / (192.168.56.1) 14.93ms
+[I 00:59:10.803 NotebookApp] 302 GET /tree? (192.168.56.1) 2.73ms
+[I 00:59:55.496 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.56.1) 3.33ms
+[W 01:00:11.722 NotebookApp] Notebook week 6 exercise.ipynb is not trusted
+[I 01:00:13.461 NotebookApp] Kernel started: 9ed4c73a-4ab1-4cc3-8195-221321c8847a
+[I 01:00:15.012 NotebookApp] Adapting to protocol v5.1 for kernel 9ed4c73a-4ab1-4cc3-8195-221321c8847a
+[W 01:00:21.023 NotebookApp] Notebook todd/Week 6.ipynb is not trusted
+[I 01:00:21.370 NotebookApp] Kernel started: eefcf43a-035a-4170-857d-b3beea98c15e
+[I 01:00:22.445 NotebookApp] Adapting to protocol v5.1 for kernel eefcf43a-035a-4170-857d-b3beea98c15e
+[I 01:02:22.058 NotebookApp] Saving file at /todd/Week 6.ipynb
+[W 01:02:22.059 NotebookApp] Notebook todd/Week 6.ipynb is not trusted
+[I 07:26:04.580 NotebookApp] Creating new notebook in 
+[I 07:26:05.994 NotebookApp] Kernel started: 24e3480c-ebc9-4339-a381-2922c440a1f7
+[I 07:26:07.093 NotebookApp] Adapting to protocol v5.1 for kernel 24e3480c-ebc9-4339-a381-2922c440a1f7
+[I 07:28:05.964 NotebookApp] Saving file at /Untitled.ipynb
+[I 07:30:05.962 NotebookApp] Saving file at /Untitled.ipynb
+[I 07:30:06.492 NotebookApp] Saving file at /Untitled.ipynb
+[I 07:32:05.965 NotebookApp] Saving file at /Untitled.ipynb
+[I 07:33:11.811 NotebookApp] Saving file at /Untitled.ipynb
+[I 07:36:06.178 NotebookApp] Saving file at /Untitled.ipynb
+[I 07:38:05.969 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:40:05.963 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:42:05.965 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:44:05.969 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:46:05.970 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:48:06.198 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:50:05.968 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:51:10.467 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:54:05.969 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:56:05.969 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 07:58:05.971 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:00:05.973 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:20:05.991 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:24:05.982 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:38:05.984 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:40:06.231 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:42:05.985 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:44:05.986 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:48:06.025 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:54:05.993 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:56:05.988 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:57:22.678 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 08:58:05.992 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 09:00:06.211 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 09:14:06.002 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 09:51:22.389 NotebookApp] Serving notebooks from local directory: /home/python3.5.3
+[I 09:51:22.419 NotebookApp] 0 active kernels
+[I 09:51:22.420 NotebookApp] The Jupyter Notebook is running at:
+[I 09:51:22.420 NotebookApp] http://0.0.0.0:8080/?token=81ca702ded40930289947858027ad0afe713b2a64279c6b5
+[I 09:51:22.420 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 09:51:22.421 NotebookApp] No web browser found: could not locate runnable browser.
+[C 09:51:22.422 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:8080/?token=81ca702ded40930289947858027ad0afe713b2a64279c6b5
+[I 09:52:03.512 NotebookApp] 302 GET / (192.168.56.1) 0.87ms
+[W 09:52:11.661 NotebookApp] Notebook todd/练习.ipynb is not trusted
+[I 09:52:13.009 NotebookApp] Kernel started: 6535ef2e-1f99-4f40-b8e9-b6279444e39e
+[I 09:52:14.390 NotebookApp] Adapting to protocol v5.1 for kernel 6535ef2e-1f99-4f40-b8e9-b6279444e39e
+[I 09:52:16.078 NotebookApp] Starting buffering for 6535ef2e-1f99-4f40-b8e9-b6279444e39e:6a5950dd131747c8aaf065576c7cfa5e
+[I 09:52:25.664 NotebookApp] Creating new notebook in 
+[I 09:52:27.017 NotebookApp] Kernel started: a97cc3d6-7fdc-4396-b7a9-6543d31505ce
+[I 09:52:28.051 NotebookApp] Adapting to protocol v5.1 for kernel a97cc3d6-7fdc-4396-b7a9-6543d31505ce
+[I 09:54:38.067 NotebookApp] Saving file at /Untitled.ipynb
+[I 09:58:57.018 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:01:07.033 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:03:18.064 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:09:14.998 NotebookApp] New terminal with automatic name: 1
+[I 10:09:47.010 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:11:58.065 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:14:08.069 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:16:18.079 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:56:48.649 NotebookApp] Kernel started: 09eacf90-f38d-4a48-82df-c3f7b39e588f
+[I 10:56:50.177 NotebookApp] Adapting to protocol v5.1 for kernel 09eacf90-f38d-4a48-82df-c3f7b39e588f
+[I 10:58:58.640 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:01:08.641 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:03:18.639 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:05:28.639 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:14:08.646 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:16:18.643 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:18:28.643 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:20:38.645 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:22:48.644 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:24:58.645 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:27:08.651 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:33:38.661 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:35:48.649 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:42:18.655 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 12:06:56.917 NotebookApp] 302 GET / (192.168.56.1) 1.52ms
+[W 12:07:58.058 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 12:08:03.064 NotebookApp] Starting buffering for a97cc3d6-7fdc-4396-b7a9-6543d31505ce:56d64ab884cd4813a16c5baa6adc35ab
+[W 12:08:20.186 NotebookApp] WebSocket ping timeout after 119992 ms.
+[I 12:08:25.191 NotebookApp] Starting buffering for 09eacf90-f38d-4a48-82df-c3f7b39e588f:e5a0f196345c410f875f927c41426b42
+[I 14:27:11.313 NotebookApp] 302 GET / (192.168.56.1) 1.23ms
+[I 14:27:11.855 NotebookApp] 302 GET / (192.168.56.1) 1.30ms
+[W 14:27:24.981 NotebookApp] 404 GET /files/todd/templates/%7B%7B%20url_for('static',%20filename='style.css',%20_external=True)%7D%7D (192.168.56.1) 39.06ms referer=None
+[I 10:22:06.571 NotebookApp] 302 GET / (192.168.56.1) 13.80ms
+[C 13:37:04.105 NotebookApp] received signal 15, stopping
+[I 13:37:04.159 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 13:37:04.651 NotebookApp] Shutting down 3 kernels
+[I 13:37:04.656 NotebookApp] Kernel shutdown: 09eacf90-f38d-4a48-82df-c3f7b39e588f
+[I 13:37:04.657 NotebookApp] Kernel shutdown: a97cc3d6-7fdc-4396-b7a9-6543d31505ce
+[I 13:37:09.681 NotebookApp] Kernel shutdown: 6535ef2e-1f99-4f40-b8e9-b6279444e39e
+[I 07:41:41.315 NotebookApp] Writing notebook server cookie secret to /run/user/0/jupyter/notebook_cookie_secret
+[I 07:41:43.908 NotebookApp] Serving notebooks from local directory: /home/python3.5.3
+[I 07:41:43.908 NotebookApp] 0 active kernels
+[I 07:41:43.908 NotebookApp] The Jupyter Notebook is running at:
+[I 07:41:43.908 NotebookApp] http://0.0.0.0:8080/?token=9ffa173021a0dd30ba3c52da0280708212043a36d278377c
+[I 07:41:43.908 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 07:41:43.909 NotebookApp] No web browser found: could not locate runnable browser.
+[C 07:41:43.909 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:8080/?token=9ffa173021a0dd30ba3c52da0280708212043a36d278377c
+[I 07:41:43.912 NotebookApp] 302 GET / (192.168.56.1) 0.97ms
+[I 07:41:43.920 NotebookApp] 302 GET /tree? (192.168.56.1) 2.36ms
+[I 07:42:38.188 NotebookApp] 302 POST /login?next=%2Ftree%3F (192.168.56.1) 3.59ms
+[I 07:43:01.591 NotebookApp] Kernel started: 27d44710-0338-4c92-961a-8ee66f83c9ca
+[I 07:43:03.299 NotebookApp] Adapting to protocol v5.1 for kernel 27d44710-0338-4c92-961a-8ee66f83c9ca
+[I 08:01:01.511 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:03:01.510 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:05:01.507 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:07:01.509 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:09:01.511 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:11:01.551 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:19:01.516 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:21:01.511 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:23:01.516 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:25:01.513 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:27:01.517 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:29:01.518 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:31:01.516 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 08:33:01.517 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 09:22:59.881 NotebookApp] Saving file at /week 8 class 1.ipynb
+[W 09:51:33.305 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 09:51:38.311 NotebookApp] Starting buffering for 27d44710-0338-4c92-961a-8ee66f83c9ca:f817c9073b90441e82d36d2d85568216
+[I 09:51:42.937 NotebookApp] 302 GET / (192.168.56.1) 1.48ms
+[I 09:51:50.018 NotebookApp] Adapting to protocol v5.1 for kernel 27d44710-0338-4c92-961a-8ee66f83c9ca
+[I 09:53:49.969 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 09:55:49.933 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 09:57:49.933 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 09:59:49.935 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:01:49.935 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:03:58.851 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:06:08.856 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:08:18.854 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:10:28.854 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:12:23.088 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:13:30.321 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:13:40.487 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:14:48.854 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:16:58.857 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:19:08.859 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:21:18.860 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:23:28.860 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:25:38.864 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:27:48.863 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:29:58.864 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:32:09.659 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:38:38.885 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:40:48.869 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:42:58.869 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:49:28.878 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:51:38.871 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:53:48.870 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:55:58.871 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:58:08.873 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 10:59:30.722 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:00:18.871 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:02:28.874 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:04:38.875 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:08:58.876 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:11:08.876 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:13:18.891 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:15:28.881 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:17:38.895 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:19:48.880 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:21:58.878 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:24:08.883 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:37:19.112 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:37:19.684 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:37:19.979 NotebookApp] Saving file at /week 8 class 1.ipynb
+[I 11:37:23.077 NotebookApp] Starting buffering for 27d44710-0338-4c92-961a-8ee66f83c9ca:730d4c03905446a8826cc2782712f8b1
+[C 14:20:37.824 NotebookApp] received signal 15, stopping
+[I 14:20:38.406 NotebookApp] Shutting down 1 kernel
+[I 14:20:39.350 NotebookApp] Kernel shutdown: 27d44710-0338-4c92-961a-8ee66f83c9ca
+[I 15:07:32.021 NotebookApp] Serving notebooks from local directory: /home/python3.5.3
+[I 15:07:32.142 NotebookApp] 0 active kernels
+[I 15:07:32.142 NotebookApp] The Jupyter Notebook is running at:
+[I 15:07:32.142 NotebookApp] http://0.0.0.0:8080/?token=18b2f141158b80901c3cbc57269641e714e12805be7e1200
+[I 15:07:32.142 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:07:32.143 NotebookApp] No web browser found: could not locate runnable browser.
+[C 15:07:32.143 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:8080/?token=18b2f141158b80901c3cbc57269641e714e12805be7e1200
+[W 15:07:33.974 NotebookApp] 404 GET /api/kernels/50c85bde-6396-41a9-8526-3fae59360d8c/channels?session_id=9df8ea9723874948817d40762c20856b (192.168.56.1): Kernel does not exist: 50c85bde-6396-41a9-8526-3fae59360d8c
+[W 15:07:34.188 NotebookApp] 404 GET /api/kernels/50c85bde-6396-41a9-8526-3fae59360d8c/channels?session_id=9df8ea9723874948817d40762c20856b (192.168.56.1) 326.93ms referer=None
+[W 15:07:37.951 NotebookApp] 404 GET /api/kernels/50c85bde-6396-41a9-8526-3fae59360d8c/channels?session_id=7d026d32a0fa46ba8539ffe45da4290d (192.168.56.1): Kernel does not exist: 50c85bde-6396-41a9-8526-3fae59360d8c
+[W 15:07:37.953 NotebookApp] 404 GET /api/kernels/50c85bde-6396-41a9-8526-3fae59360d8c/channels?session_id=7d026d32a0fa46ba8539ffe45da4290d (192.168.56.1) 6.78ms referer=None
+[W 15:07:51.538 NotebookApp] Replacing stale connection: 50c85bde-6396-41a9-8526-3fae59360d8c:9df8ea9723874948817d40762c20856b
+[I 15:08:43.310 NotebookApp] Creating new notebook in 
+[I 15:08:45.150 NotebookApp] Kernel started: 2add046d-dbfc-4dc9-99cd-56186e39a5d0
+[I 15:10:55.129 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:11:10.153 NotebookApp] Kernel started: 45eac086-91e4-47d3-9099-5e7f77647b96
+[I 15:12:11.559 NotebookApp] Adapting to protocol v5.1 for kernel 2add046d-dbfc-4dc9-99cd-56186e39a5d0
+[I 15:12:11.605 NotebookApp] Adapting to protocol v5.1 for kernel 45eac086-91e4-47d3-9099-5e7f77647b96
+[W 15:12:46.741 NotebookApp] Replacing stale connection: 50c85bde-6396-41a9-8526-3fae59360d8c:9df8ea9723874948817d40762c20856b
+[I 15:13:05.122 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:13:37.598 NotebookApp] 302 GET /?token=18b2f141158b80901c3cbc57269641e714e12805be7e1200 (192.168.56.1) 0.95ms
+[I 15:15:30.298 NotebookApp] Saving file at /上下文管理 with.ipynb
+[W 15:18:17.137 NotebookApp] Replacing stale connection: 50c85bde-6396-41a9-8526-3fae59360d8c:9df8ea9723874948817d40762c20856b
+[I 15:26:20.294 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 15:28:30.157 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 15:30:25.130 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:30:40.156 NotebookApp] Saving file at /上下文管理 with.ipynb
+[I 15:32:35.129 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:34:45.128 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:41:15.133 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:43:25.129 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:45:35.132 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:47:45.132 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:49:55.132 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:52:05.132 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:54:15.139 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:56:25.139 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 15:58:35.138 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:00:45.139 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:02:55.141 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:05:05.137 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:07:15.137 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:09:25.138 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:13:45.138 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:15:55.168 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:18:05.140 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:20:15.139 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:22:25.145 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:24:35.142 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:31:51.964 NotebookApp] Saving file at /File IO operation.ipynb
+[W 16:31:51.966 NotebookApp] Notebook File IO operation.ipynb is not trusted
+[I 16:35:25.201 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:48:25.152 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:50:35.151 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:51:11.189 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:52:45.148 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:54:55.369 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:57:05.160 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 16:59:15.181 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:14:25.195 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:18:45.160 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:21:57.245 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:25:15.160 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:27:25.158 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:29:35.166 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:31:45.174 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:39:07.114 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:39:53.933 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:40:46.850 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:42:05.463 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:49:05.165 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:51:15.168 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:53:25.170 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:55:35.169 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 17:56:06.531 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 19:16:21.758 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:07:08.642 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:09:18.653 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:13:38.646 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:15:48.639 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:20:08.642 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:22:18.646 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:24:28.646 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:26:38.646 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:28:48.648 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:33:08.649 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:37:28.652 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:39:38.650 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:41:48.649 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:43:58.652 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:46:08.651 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:47:56.132 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:50:28.648 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:51:38.905 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:52:38.655 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:54:48.656 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:56:58.654 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:59:06.880 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 21:59:54.141 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:00:52.432 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:02:22.937 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:07:48.658 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:09:14.601 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:12:08.044 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:18:38.665 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:18:57.404 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:20:48.659 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:21:15.855 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:25:08.663 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:27:18.663 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:29:28.778 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:31:06.274 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 22:35:14.059 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 11:13:02.546 NotebookApp] Starting buffering for 45eac086-91e4-47d3-9099-5e7f77647b96:a0812cd1d53e45b8b7d9702d8d187758
+[I 11:13:04.454 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 11:13:05.993 NotebookApp] Starting buffering for 2add046d-dbfc-4dc9-99cd-56186e39a5d0:fb0e33ed22134f889579a39314a093ca
+[I 11:13:19.160 NotebookApp] Adapting to protocol v5.1 for kernel 45eac086-91e4-47d3-9099-5e7f77647b96
+[W 11:14:14.101 NotebookApp] delete /1
+[W 11:14:21.067 NotebookApp] delete /123
+[I 11:14:43.021 NotebookApp] Adapting to protocol v5.1 for kernel 2add046d-dbfc-4dc9-99cd-56186e39a5d0
+[I 12:13:13.019 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 12:15:23.389 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 12:15:58.387 NotebookApp] Saving file at /find.py
+[I 12:18:45.536 NotebookApp] Saving file at /find.py
+[I 12:35:43.250 NotebookApp] Saving file at /find.py
+[I 12:46:33.380 NotebookApp] Saving file at /ls.py
+[I 12:49:24.595 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 12:50:11.647 NotebookApp] Saving file at /find.py
+[I 12:57:02.745 NotebookApp] Saving file at /find.py
+[I 12:59:09.545 NotebookApp] Saving file at /find.py
+[I 12:59:44.384 NotebookApp] Saving file at /find.py
+[I 13:09:33.013 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:11:43.408 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:13:02.329 NotebookApp] Saving file at /find.py
+[I 13:13:32.117 NotebookApp] Saving file at /find.py
+[I 13:14:40.441 NotebookApp] Saving file at /find.py
+[I 13:22:33.017 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:24:19.530 NotebookApp] Kernel interrupted: 2add046d-dbfc-4dc9-99cd-56186e39a5d0
+[I 13:24:24.111 NotebookApp] Kernel interrupted: 2add046d-dbfc-4dc9-99cd-56186e39a5d0
+[I 13:24:43.016 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:26:53.021 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:27:54.409 NotebookApp] Saving file at /find.py
+[I 13:31:13.017 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:33:23.018 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:35:33.021 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:39:53.415 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:42:03.025 NotebookApp] Saving file at /7 week's home work.ipynb
+[I 13:44:13.416 NotebookApp] Saving file at /7 week's home work.ipynb
+[W 16:35:36.336 NotebookApp] Notebook todd/week 5 excise.ipynb is not trusted
+[I 16:35:37.329 NotebookApp] Kernel started: 879fea8d-e333-4c97-a5fb-348f003e7ff0
+[I 16:35:38.566 NotebookApp] Adapting to protocol v5.1 for kernel 879fea8d-e333-4c97-a5fb-348f003e7ff0
+[I 16:37:47.326 NotebookApp] Saving file at /todd/week 5 excise.ipynb
+[W 16:37:47.327 NotebookApp] Notebook todd/week 5 excise.ipynb is not trusted
+[I 16:37:54.330 NotebookApp] Saving file at /todd/week 5 excise.ipynb
+[W 16:37:54.330 NotebookApp] Notebook todd/week 5 excise.ipynb is not trusted
+[C 20:00:36.747 NotebookApp] received signal 15, stopping
+[I 20:00:36.747 NotebookApp] Shutting down 3 kernels
+[I 20:00:36.749 NotebookApp] Kernel shutdown: 2add046d-dbfc-4dc9-99cd-56186e39a5d0
+[I 20:00:36.857 NotebookApp] Kernel shutdown: 879fea8d-e333-4c97-a5fb-348f003e7ff0
+[I 20:00:36.858 NotebookApp] Kernel shutdown: 45eac086-91e4-47d3-9099-5e7f77647b96
