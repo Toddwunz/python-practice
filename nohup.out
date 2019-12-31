@@ -3668,3 +3668,39 @@
 [I 21:23:26.333 NotebookApp] 302 GET / (172.105.238.87) 0.55ms
 [W 21:36:18.033 NotebookApp] 404 GET http://us.vansto.com/verify.txt (67.229.206.84) 1.42ms referer=None
 [I 22:43:47.650 NotebookApp] 302 GET / (209.17.97.58) 0.57ms
+[I 00:38:45.928 NotebookApp] 302 GET / (121.75.40.209) 4.69ms
+[I 00:38:46.133 NotebookApp] 302 GET /tree? (121.75.40.209) 0.65ms
+[I 00:38:52.585 NotebookApp] 302 POST /login?next=%2Ftree%3F (121.75.40.209) 3.61ms
+[E 00:39:15.088 NotebookApp] Uncaught exception GET /api/contents/mysqldata.tar?type=file&format=text&_=1577752752782 (121.75.40.209)
+    HTTPServerRequest(protocol='http', host='aws.toddwu.xyz:8888', method='GET', uri='/api/contents/mysqldata.tar?type=file&format=text&_=1577752752782', version='HTTP/1.1', remote_ip='121.75.40.209')
+    Traceback (most recent call last):
+      File "/home/ec2-user/.pyenv/versions/3.6.8/lib/python3.6/site-packages/tornado/web.py", line 1592, in _execute
+        result = yield result
+      File "/home/ec2-user/.pyenv/versions/3.6.8/lib/python3.6/site-packages/tornado/gen.py", line 1133, in run
+        value = future.result()
+      File "/home/ec2-user/.pyenv/versions/3.6.8/lib/python3.6/site-packages/tornado/gen.py", line 326, in wrapper
+        yielded = next(result)
+      File "/home/ec2-user/.pyenv/versions/3.6.8/lib/python3.6/site-packages/notebook/services/contents/handlers.py", line 112, in get
+        path=path, type=type, format=format, content=content,
+      File "/home/ec2-user/.pyenv/versions/3.6.8/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 438, in get
+        model = self._file_model(path, content=content, format=format)
+      File "/home/ec2-user/.pyenv/versions/3.6.8/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 365, in _file_model
+        content, format = self._read_file(os_path, format)
+      File "/home/ec2-user/.pyenv/versions/3.6.8/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 315, in _read_file
+        return bcontent.decode('utf8'), 'text'
+    MemoryError
+[W 00:39:15.096 NotebookApp] Unhandled error
+[E 00:39:15.096 NotebookApp] {
+      "Host": "aws.toddwu.xyz:8888",
+      "Connection": "keep-alive",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|80f7cda8|218a7a1bccfdab61ab0a330488a2cabc|1577752726",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36",
+      "Referer": "http://aws.toddwu.xyz:8888/edit/mysqldata.tar",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,zh-TW;q=0.6",
+      "Cookie": "_xsrf=2|80f7cda8|218a7a1bccfdab61ab0a330488a2cabc|1577752726; username-aws-toddwu-xyz-8888=\"2|1:0|10:1577752732|28:username-aws-toddwu-xyz-8888|44:MDYxYWE4OTMxMTQzNDA5Y2EyMmMzYTFlMmM2NTZmMDQ=|ace9530afa2ee53653f8cc962f793244fa0f4277429be5d98faa911e45e2faab\""
+    }
+[E 00:39:15.096 NotebookApp] 500 GET /api/contents/mysqldata.tar?type=file&format=text&_=1577752752782 (121.75.40.209) 1915.35ms referer=http://aws.toddwu.xyz:8888/edit/mysqldata.tar
+[W 00:40:54.398 NotebookApp] delete /mysqldata.tar
